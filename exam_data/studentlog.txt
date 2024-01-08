@@ -1,0 +1,1882 @@
+	id	name	credits	difficulty	grades	student
+0	42	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Brandon Nelson
+1	2	Introduction to Quantum Mechanics II	3	5.0	4.0	Christopher Baker
+2	88	Laser Physics	3	4.0	5.0	Randy Nelson
+3	62	Introduction to Modern Physics	3	1.0	2.0	Carl Walker
+4	70	Calculus for Science and Engineering I	4	5.0	3.0	Gerald Scott
+5	79	Introduction to Abstract Algebra	3	5.0	5.0	Brandon Roberts
+6	30	General Physics II – Electricity and Magnetism	4	5.0	4.0	Jason Walker
+7	16	General Physics II – Electricity and Magnetism	4	5.0	5.0	Joseph Taylor
+8	67	Cosmology and the Structure of the Universe	3	2.0	3.0	Juan Sanchez
+9	26	Elementary Differential Equations	3	2.0	4.0	Brian Harris
+10	85	Introduction to Modern Physics	3	1.0	1.0	Louis Anderson
+11	93	Introduction to Quantum Mechanics I	3	5.0	5.0	Phillip Robinson
+12	39	Fundamentals of Analysis I	3	4.0	5.0	Larry Green
+13	26	Introduction to Quantum Mechanics I	3	5.0	5.0	Brian Harris
+14	37	General Relativity	3	5.0	4.0	Stephen King
+15	79	Introduction to Complex Analysis	3	4.0	5.0	Brandon Roberts
+16	90	Introduction to Modern Physics	3	1.0	3.0	Raymond Wilson
+17	49	Calculus for Science and Engineering III	3	1.0	1.0	Alexander Phillips
+18	50	Introduction to Abstract Algebra	3	5.0	4.0	Jack Evans
+19	1	Calculus for Science and Engineering II	4	3.0	5.0	Jennifer Jones
+20	30	General Relativity	3	5.0	4.0	Jason Walker
+21	70	Linear Algebra	3	2.0	2.0	Gerald Scott
+22	24	Modern Cosmology	3	3.0	5.0	Paul Lee
+23	67	Calculus for Science and Engineering I	4	5.0	4.0	Juan Sanchez
+24	44	Calculus for Science and Engineering II	4	3.0	2.0	Samuel Ramirez
+25	24	Classical Mechanics	3	1.0	3.0	Paul Lee
+26	28	Introduction to Abstract Algebra	3	5.0	5.0	Edward Lewis
+27	64	Modern Cosmology	3	3.0	4.0	Ryan Hall
+28	27	General Physics II – Electricity and Magnetism	4	5.0	4.0	George Clark
+29	78	Introduction to Abstract Algebra	3	5.0	5.0	Bruce Mitchell
+30	41	Fundamentals of Analysis II	3	1.0	1.0	Scott Adams
+31	58	Introduction to Quantum Mechanics I	3	5.0	5.0	Nathan Wilson
+32	61	Elementary Differential Equations	3	2.0	4.0	Kyle Robinson
+33	81	Calculus for Science and Engineering II	4	3.0	3.0	Harry Phillips
+34	42	Laser Physics	3	4.0	4.0	Brandon Nelson
+35	98	Calculus for Science and Engineering II	4	3.0	5.0	Eugene Allen
+36	42		3	1.0	2.0	Brandon Nelson
+37	50	Introduction to Quantum Mechanics II	3	5.0	4.0	Jack Evans
+38	3	Calculus for Science and Engineering I	4	5.0	5.0	Anthony Jones
+39	87	Introduction to Quantum Mechanics I	3	5.0	5.0	Aaron Lewis
+40	61	Introduction to Quantum Mechanics I	3	5.0	5.0	Kyle Robinson
+41	74	General Physics I – Mechanics	4	4.0	5.0	Lawrence Nelson
+42	50	Calculus for Science and Engineering I	4	5.0	4.0	Jack Evans
+43	69	Introduction to Complex Analysis	3	4.0	5.0	Harold King
+44	76	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Roy Ramirez
+45	72	Cosmology and the Structure of the Universe	3	2.0	4.0	Samuel Baker
+46	28	Introduction to Modern Physics	3	1.0	2.0	Edward Lewis
+47	0	Fundamentals of Analysis I	3	4.0	5.0	Elizabeth White
+48	73	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Willie Adams
+49	76	Linear Algebra	3	2.0	4.0	Roy Ramirez
+50	49	Fundamentals of Analysis II	3	1.0	1.0	Alexander Phillips
+51	28	Introduction to Quantum Mechanics I	3	5.0	5.0	Edward Lewis
+52	8	Fundamentals of Analysis I	3	4.0	3.0	Sharon Allen
+53	91	Introduction to Complex Analysis	3	4.0	5.0	Bobby Martinez
+54	76	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Roy Ramirez
+55	73	Calculus for Science and Engineering I	4	5.0	5.0	Willie Adams
+56	89	Introduction to Abstract Algebra	3	5.0	4.0	Eugene Baker
+57	56	Calculus for Science and Engineering III	3	1.0	3.0	Douglas Nelson
+58	54	Fundamentals of Analysis II	3	1.0	2.0	Aaron White
+59	15	General Physics I – Mechanics	4	4.0	3.0	Richard Martinez
+60	55	Laser Physics	3	4.0	5.0	Henry Lewis
+61	40	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Justin Baker
+62	64	Introduction to Quantum Mechanics I	3	5.0	5.0	Ryan Hall
+63	49	Introduction to Complex Analysis	3	4.0	3.0	Alexander Phillips
+64	94	General Relativity	3	5.0	5.0	Paul Walker
+65	4	Calculus for Science and Engineering I	4	5.0	3.0	Jeffrey Thomas
+66	28	Calculus for Science and Engineering III	3	1.0	2.0	Edward Lewis
+67	5	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Andrew White
+68	55	General Physics II – Electricity and Magnetism	4	5.0	5.0	Henry Lewis
+69	78	Introduction to Quantum Mechanics II	3	5.0	5.0	Bruce Mitchell
+70	20	Fundamentals of Analysis I	3	4.0	3.0	Matthew Jackson
+71	21	General Physics I – Mechanics	4	4.0	5.0	Mark Thompson
+72	50	Introduction to Quantum Mechanics I	3	5.0	4.0	Jack Evans
+73	58	Fundamentals of Analysis II	3	1.0	3.0	Nathan Wilson
+74	52	Introduction to Nuclear and Particle Physics	3	5.0	3.0	Jerry Torres
+75	97	Elementary Differential Equations	3	2.0	3.0	Howard Young
+76	68	Fundamentals of Analysis I	3	4.0	5.0	Jack Wright
+77	22	Calculus for Science and Engineering II	4	3.0	2.0	Donald White
+78	4	Classical Mechanics	3	1.0	1.0	Jeffrey Thomas
+79	84	Calculus for Science and Engineering II	4	3.0	5.0	Steve Torres
+80	14	Introduction to Quantum Mechanics II	3	5.0	5.0	David Wilson
+81	83	General Physics I – Mechanics	4	4.0	4.0	Billy Turner
+82	77	Modern Cosmology	3	3.0	5.0	Benjamin Campbell
+83	16	Linear Algebra	3	2.0	3.0	Joseph Taylor
+84	3	General Physics II – Electricity and Magnetism	4	5.0	5.0	Anthony Jones
+85	51	Calculus for Science and Engineering II	4	3.0	5.0	Dennis Turner
+86	35	General Physics I – Mechanics	4	4.0	5.0	Nicholas Sanchez
+87	20	General Physics I – Mechanics	4	4.0	3.0	Matthew Jackson
+88	10	General Physics II – Electricity and Magnetism	4	5.0	5.0	Patricia Brown
+89	89	Classical Mechanics	3	1.0	2.0	Eugene Baker
+90	58	Introduction to Quantum Mechanics II	3	5.0	5.0	Nathan Wilson
+91	14	Cosmology and the Structure of the Universe	3	2.0	4.0	David Wilson
+92	67	Classical Mechanics	3	1.0	2.0	Juan Sanchez
+93	12	Introduction to Modern Physics	3	1.0	1.0	Michael Davis
+94	57	General Physics I – Mechanics	4	4.0	5.0	Adam Baker
+95	45	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Gregory Campbell
+96	86	Classical Mechanics	3	1.0	2.0	Jeremy White
+97	44	Linear Algebra	3	2.0	2.0	Samuel Ramirez
+98	42	Introduction to Abstract Algebra	3	5.0	4.0	Brandon Nelson
+99	92	Classical Mechanics	3	1.0	3.0	Johnny Clark
+100	54	Linear Algebra	3	2.0	3.0	Aaron White
+101	20	General Physics II – Electricity and Magnetism	4	5.0	3.0	Matthew Jackson
+102	70	Fundamentals of Analysis II	3	1.0	1.0	Gerald Scott
+103	89	Calculus for Science and Engineering II	4	3.0	3.0	Eugene Baker
+104	87	Introduction to Quantum Mechanics II	3	5.0	5.0	Aaron Lewis
+105	16	Fundamentals of Analysis I	3	4.0	5.0	Joseph Taylor
+106	14	Fundamentals of Analysis II	3	1.0	3.0	David Wilson
+107	28	Introduction to Solid State Physics	3	1.0	2.0	Edward Lewis
+108	84	General Physics I – Mechanics	4	4.0	5.0	Steve Torres
+109	7	Fundamentals of Analysis II	3	1.0	2.0	Timothy Carter
+110	41	Introduction to Abstract Algebra	3	5.0	3.0	Scott Adams
+111	69	Calculus for Science and Engineering II	4	3.0	5.0	Harold King
+112	82	Classical Mechanics	3	1.0	1.0	Wayne Evans
+113	35	Fundamentals of Analysis I	3	4.0	5.0	Nicholas Sanchez
+114	27	Calculus for Science and Engineering II	4	3.0	3.0	George Clark
+115	54	Calculus for Science and Engineering III	3	1.0	2.0	Aaron White
+116	94	Introduction to Abstract Algebra	3	5.0	5.0	Paul Walker
+117	47	Physical Optics	3	2.0	3.0	Raymond Roberts
+118	67	Introduction to Quantum Mechanics I	3	5.0	4.0	Juan Sanchez
+119	67	Calculus for Science and Engineering II	4	3.0	3.0	Juan Sanchez
+120	96	Introduction to Quantum Mechanics II	3	5.0	5.0	Carl Hall
+121	45	Classical Mechanics	3	1.0	1.0	Gregory Campbell
+122	53	Introduction to Quantum Mechanics I	3	5.0	5.0	Tyler Anderson
+123	2	General Physics II – Electricity and Magnetism	4	5.0	4.0	Christopher Baker
+124	67	Introduction to Quantum Mechanics II	3	5.0	4.0	Juan Sanchez
+125	18	Physical Optics	3	2.0	4.0	Charles Moore
+126	62	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Carl Walker
+127	7	Classical Mechanics	3	1.0	2.0	Timothy Carter
+128	59	Elementary Differential Equations	3	2.0	3.0	Zachary Martinez
+129	65	Elementary Differential Equations	3	2.0	3.0	Roger Young
+130	38	Physical Optics	3	2.0	3.0	Jonathan Scott
+131	92	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Johnny Clark
+132	71	Classical Mechanics	3	1.0	3.0	Keith Green
+133	20	Classical Mechanics	3	1.0	1.0	Matthew Jackson
+134	53	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Tyler Anderson
+135	63	Introduction to Modern Physics	3	1.0	2.0	Arthur Perez
+136	51	Classical Mechanics	3	1.0	3.0	Dennis Turner
+137	90	Introduction to Quantum Mechanics II	3	5.0	5.0	Raymond Wilson
+138	84	Introduction to Modern Physics	3	1.0	3.0	Steve Torres
+139	50	Classical Mechanics	3	1.0	2.0	Jack Evans
+140	79	Fundamentals of Analysis II	3	1.0	3.0	Brandon Roberts
+141	77	Calculus for Science and Engineering I	4	5.0	5.0	Benjamin Campbell
+142	85	Calculus for Science and Engineering II	4	3.0	2.0	Louis Anderson
+143	77	Calculus for Science and Engineering II	4	3.0	5.0	Benjamin Campbell
+144	6	Introduction to Quantum Mechanics I	3	5.0	5.0	Amanda Anderson
+145	29	Calculus for Science and Engineering III	3	1.0	3.0	Ronald Robinson
+146	94	Calculus for Science and Engineering II	4	3.0	5.0	Paul Walker
+147	26	Introduction to Modern Physics	3	1.0	3.0	Brian Harris
+148	0	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Elizabeth White
+149	9	Cosmology and the Structure of the Universe	3	2.0	4.0	John Smith
+150	88	General Physics II – Electricity and Magnetism	4	5.0	5.0	Randy Nelson
+151	76	Fundamentals of Analysis I	3	4.0	5.0	Roy Ramirez
+152	97	Calculus for Science and Engineering III	3	1.0	2.0	Howard Young
+153	17	Laser Physics	3	4.0	5.0	Thomas Hernandez
+154	67	Introduction to Complex Analysis	3	4.0	4.0	Juan Sanchez
+155	13	Fundamentals of Analysis I	3	4.0	3.0	William Miller
+156	92	Introduction to Modern Physics	3	1.0	3.0	Johnny Clark
+157	22	Physical Optics	3	2.0	2.0	Donald White
+158	5	Introduction to Quantum Mechanics II	3	5.0	5.0	Andrew White
+159	11	General Physics II – Electricity and Magnetism	4	5.0	5.0	Robert Johnson
+160	83	Laser Physics	3	4.0	4.0	Billy Turner
+161	48	Cosmology and the Structure of the Universe	3	2.0	4.0	Patrick Carter
+162	82	Introduction to Quantum Mechanics I	3	5.0	3.0	Wayne Evans
+163	61	General Physics I – Mechanics	4	4.0	5.0	Kyle Robinson
+164	13	Introduction to Complex Analysis	3	4.0	3.0	William Miller
+165	29	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Ronald Robinson
+166	60	Introduction to Quantum Mechanics I	3	5.0	5.0	Walter Clark
+167	65	Calculus for Science and Engineering II	4	3.0	3.0	Roger Young
+168	83	General Physics II – Electricity and Magnetism	4		4.0	Billy Turner
+169	56	Linear Algebra	3	2.0	4.0	Douglas Nelson
+170	46	Fundamentals of Analysis II	3	1.0	3.0	Frank Mitchell
+171	98	Modern Cosmology	3	3.0	5.0	Eugene Allen
+172	28	Linear Algebra	3	2.0	3.0	Edward Lewis
+173	98	Introduction to Quantum Mechanics II	3	5.0	5.0	Eugene Allen
+174	94	General Physics II – Electricity and Magnetism	4	5.0	5.0	Paul Walker
+175	81	Introduction to Quantum Mechanics II	3	5.0	4.0	Harry Phillips
+176	74	Fundamentals of Analysis I	3	4.0	5.0	Lawrence Nelson
+177	22	Elementary Differential Equations	3	2.0	2.0	Donald White
+178	62	Cosmology and the Structure of the Universe	3	2.0	3.0	Carl Walker
+179	50	Introduction to Complex Analysis	3	4.0	4.0	Jack Evans
+180	70	Elementary Differential Equations	3	2.0	2.0	Gerald Scott
+181	56	Introduction to Quantum Mechanics II	3	5.0	5.0	Douglas Nelson
+182	81	General Physics II – Electricity and Magnetism	4	5.0	4.0	Harry Phillips
+183	30	General Physics I – Mechanics	4	4.0	4.0	Jason Walker
+184	48	Classical Mechanics	3	1.0	3.0	Patrick Carter
+185	22	General Relativity	3	5.0	3.0	Donald White
+186	43	Elementary Differential Equations	3	2.0	3.0	Benjamin Hill
+187	47	Fundamentals of Analysis II	3	1.0	2.0	Raymond Roberts
+188	43	Linear Algebra	3	2.0	3.0	Benjamin Hill
+189	18	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Charles Moore
+190	27	Thermodynamics and Statistical Mechanics	3	4.0	4.0	George Clark
+191	36	General Physics I – Mechanics	4	4.0	5.0	Eric Wright
+192	95	Introduction to Modern Physics	3	1.0	2.0	Larry Perez
+193	53	Calculus for Science and Engineering I	4	5.0	5.0	Tyler Anderson
+194	64	Calculus for Science and Engineering II	4	3.0	4.0	Ryan Hall
+195	18	Introduction to Quantum Mechanics II	3	5.0	5.0	Charles Moore
+196	72	Elementary Differential Equations	3	2.0	4.0	Samuel Baker
+197	54	Calculus for Science and Engineering I	4	5.0	5.0	Aaron White
+198	48	Introduction to Modern Physics	3	1.0	3.0	Patrick Carter
+199	75	Elementary Differential Equations	3	2.0	2.0	Nicholas Hill
+200	81	Introduction to Solid State Physics	3	1.0	2.0	Harry Phillips
+201	71	Calculus for Science and Engineering III	3	1.0	3.0	Keith Green
+202	34	Calculus for Science and Engineering II	4	3.0	4.0	Gary Allen
+203	44	Introduction to Complex Analysis	3	4.0	3.0	Samuel Ramirez
+204	52	General Physics I – Mechanics	4	4.0	3.0	Jerry Torres
+205	53	Fundamentals of Analysis II	3	1.0	3.0	Tyler Anderson
+206	19	Calculus for Science and Engineering II	4	3.0	2.0	Daniel Martin
+207	66	General Physics II – Electricity and Magnetism	4	5.0	5.0	Joe Allen
+208	88	General Relativity	3	5.0	5.0	Randy Nelson
+209	34	Calculus for Science and Engineering III	3	1.0	2.0	Gary Allen
+210	73	Classical Mechanics	3	1.0	3.0	Willie Adams
+211	23	Classical Mechanics	3	1.0	3.0	Steven Lopez
+212	26	Linear Algebra	3	2.0	4.0	Brian Harris
+213	23	Introduction to Complex Analysis	3	4.0	5.0	Steven Lopez
+214	23	Elementary Differential Equations	3	2.0	4.0	Steven Lopez
+215	2	Introduction to Complex Analysis	3	4.0	4.0	Christopher Baker
+216	21	Fundamentals of Analysis II	3	1.0	3.0	Mark Thompson
+217	13	General Relativity	3	5.0	3.0	William Miller
+218	47	General Physics I – Mechanics	4	4.0	5.0	Raymond Roberts
+219	65	Linear Algebra	3	2.0	3.0	Roger Young
+220	28	Fundamentals of Analysis I	3	4.0	5.0	Edward Lewis
+221	11	Linear Algebra	3	2.0	3.0	Robert Johnson
+222	69	Calculus for Science and Engineering III	3	1.0	3.0	Harold King
+223	73	Calculus for Science and Engineering II	4	3.0	5.0	Willie Adams
+224	31	General Physics I – Mechanics	4	4.0	5.0	Jeffrey Perez
+225	18	Introduction to Quantum Mechanics I	3	5.0	5.0	Charles Moore
+226	88	Fundamentals of Analysis I	3	4.0	5.0	Randy Nelson
+227	22	Introduction to Quantum Mechanics I	3	5.0	3.0	Donald White
+228	81	Classical Mechanics	3	1.0	2.0	Harry Phillips
+229	58	Laser Physics	3	4.0	5.0	Nathan Wilson
+230	49	General Relativity	3	5.0	3.0	Alexander Phillips
+231	19	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Daniel Martin
+232	71	Calculus for Science and Engineering I	4	5.0	5.0	Keith Green
+233	50	Introduction to Modern Physics	3	1.0	2.0	Jack Evans
+234	42	Calculus for Science and Engineering II	4	3.0	3.0	Brandon Nelson
+235	54	Fundamentals of Analysis I	3	4.0	5.0	Aaron White
+236	87	Classical Mechanics	3	1.0	3.0	Aaron Lewis
+237	54	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Aaron White
+238	12	General Relativity	3	5.0	3.0	Michael Davis
+239	78	Elementary Differential Equations	3	2.0	4.0	Bruce Mitchell
+240	24	Introduction to Abstract Algebra	3	5.0	5.0	Paul Lee
+241	40	Introduction to Quantum Mechanics I	3	5.0	4.0	Justin Baker
+242	60	Introduction to Solid State Physics	3	1.0	3.0	Walter Clark
+243	6	Introduction to Complex Analysis	3	4.0	5.0	Amanda Anderson
+244	23	Introduction to Modern Physics	3	1.0	3.0	Steven Lopez
+245	24	General Physics I – Mechanics	4	4.0	5.0	Paul Lee
+246	35	Calculus for Science and Engineering II	4	3.0	5.0	Nicholas Sanchez
+247	76	General Relativity	3	5.0	5.0	Roy Ramirez
+248	49	Elementary Differential Equations	3	2.0	2.0	Alexander Phillips
+249	82	Linear Algebra	3	2.0	2.0	Wayne Evans
+250	31	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Jeffrey Perez
+251	44	General Physics I – Mechanics	4	4.0	3.0	Samuel Ramirez
+252	95	General Physics II – Electricity and Magnetism	4	5.0	4.0	Larry Perez
+253	9	Calculus for Science and Engineering III	3	1.0	3.0	John Smith
+254	97	Fundamentals of Analysis II	3	1.0	2.0	Howard Young
+255	72	Introduction to Abstract Algebra	3	5.0	5.0	Samuel Baker
+256	28	General Physics II – Electricity and Magnetism	4	5.0	5.0	Edward Lewis
+257	42	Linear Algebra	3	2.0	3.0	Brandon Nelson
+258	1	Introduction to Abstract Algebra	3	5.0	5.0	Jennifer Jones
+259	49	Calculus for Science and Engineering II	4	3.0	2.0	Alexander Phillips
+260	41	Calculus for Science and Engineering II	4	3.0	2.0	Scott Adams
+261	74	Calculus for Science and Engineering I	4	5.0	5.0	Lawrence Nelson
+262	62	Introduction to Complex Analysis	3	4.0	5.0	Carl Walker
+263	81	Introduction to Modern Physics	3	1.0	2.0	Harry Phillips
+264	42	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Brandon Nelson
+265	85	Introduction to Quantum Mechanics II	3	5.0	3.0	Louis Anderson
+266	78	General Physics II – Electricity and Magnetism	4	5.0	5.0	Bruce Mitchell
+267	72	Physical Optics	3	2.0	4.0	Samuel Baker
+268	41	General Physics I – Mechanics	4	4.0	3.0	Scott Adams
+269	35	Calculus for Science and Engineering III	3	1.0	3.0	Nicholas Sanchez
+270	37	Linear Algebra	3	2.0	3.0	Stephen King
+271	28	Calculus for Science and Engineering I	4	5.0	5.0	Edward Lewis
+272	63	Calculus for Science and Engineering III	3	1.0	2.0	Arthur Perez
+273	76	Elementary Differential Equations	3	2.0	4.0	Roy Ramirez
+274	66	Elementary Differential Equations	3	2.0	3.0	Joe Allen
+275	83	Calculus for Science and Engineering I	4	5.0	4.0	Billy Turner
+276	78	Laser Physics	3	4.0	5.0	Bruce Mitchell
+277	60	Calculus for Science and Engineering II	4	3.0	5.0	Walter Clark
+278	97	Introduction to Quantum Mechanics II	3	5.0	5.0	Howard Young
+279	45	Calculus for Science and Engineering I	4	5.0	3.0	Gregory Campbell
+280	1	Laser Physics	3	4.0	5.0	Jennifer Jones
+281	20	Introduction to Complex Analysis	3	4.0	3.0	Matthew Jackson
+282	63	General Physics I – Mechanics	4	4.0	4.0	Arthur Perez
+283	5	Fundamentals of Analysis II	3	1.0	2.0	Andrew White
+284	86	Introduction to Quantum Mechanics I	3	5.0	4.0	Jeremy White
+285	39	General Physics II – Electricity and Magnetism	4	5.0	5.0	Larry Green
+286	59	Introduction to Modern Physics	3	1.0	2.0	Zachary Martinez
+287	20	Laser Physics	3	4.0	3.0	Matthew Jackson
+288	73	Calculus for Science and Engineering III	3	1.0	3.0	Willie Adams
+289	63	Calculus for Science and Engineering I	4	5.0	4.0	Arthur Perez
+290	77	Introduction to Abstract Algebra	3	5.0	5.0	Benjamin Campbell
+291	3	Introduction to Quantum Mechanics I	3	5.0	5.0	Anthony Jones
+292	80	Calculus for Science and Engineering I	4	5.0	3.0	Adam Carter
+293	54	Introduction to Quantum Mechanics I	3	5.0	5.0	Aaron White
+294	35	Calculus for Science and Engineering I	4	5.0	5.0	Nicholas Sanchez
+295	71	Physical Optics	3	2.0	4.0	Keith Green
+296	50	Modern Cosmology	3	3.0	3.0	Jack Evans
+297	19	General Relativity	3	5.0	3.0	Daniel Martin
+298	81	Fundamentals of Analysis II	3	1.0	2.0	Harry Phillips
+299	80	Fundamentals of Analysis II	3	1.0	1.0	Adam Carter
+300	53	General Physics II – Electricity and Magnetism	4	5.0	5.0	Tyler Anderson
+301	29	Modern Cosmology	3	3.0	5.0	Ronald Robinson
+302	58	Calculus for Science and Engineering II	4	3.0	5.0	Nathan Wilson
+303	93	Calculus for Science and Engineering II	4	3.0	5.0	Phillip Robinson
+304	43	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Benjamin Hill
+305	16	Elementary Differential Equations	3	2.0	3.0	Joseph Taylor
+306	84	General Physics II – Electricity and Magnetism	4	5.0	5.0	Steve Torres
+307	92	Fundamentals of Analysis II	3	1.0	3.0	Johnny Clark
+308	41	Introduction to Modern Physics	3	1.0	1.0	Scott Adams
+309	12	Calculus for Science and Engineering I	4	5.0	3.0	Michael Davis
+310	60	Laser Physics	3	4.0	5.0	Walter Clark
+311	58	Fundamentals of Analysis I	3	4.0	5.0	Nathan Wilson
+312	49	Modern Cosmology	3	3.0	2.0	Alexander Phillips
+313	75	Fundamentals of Analysis II	3	1.0	1.0	Nicholas Hill
+314	52	Introduction to Solid State Physics	3	1.0	1.0	Jerry Torres
+315	6	Fundamentals of Analysis II	3	1.0	2.0	Amanda Anderson
+316	25	Calculus for Science and Engineering II	4	3.0	5.0	Kevin Gonzalez
+317	81	Introduction to Complex Analysis	3	4.0	4.0	Harry Phillips
+318	88	Introduction to Complex Analysis	3	4.0	5.0	Randy Nelson
+319	43	Fundamentals of Analysis I	3	4.0	4.0	Benjamin Hill
+320	69	Calculus for Science and Engineering I	4	5.0	5.0	Harold King
+321	3	Introduction to Solid State Physics	3	1.0	2.0	Anthony Jones
+322	43	Introduction to Quantum Mechanics I	3		4.0	Benjamin Hill
+323	49	Classical Mechanics	3	1.0	1.0	Alexander Phillips
+324	47	Introduction to Complex Analysis	3	4.0	5.0	Raymond Roberts
+325	25	Introduction to Quantum Mechanics II	3	5.0	5.0	Kevin Gonzalez
+326	19	Laser Physics	3	4.0	3.0	Daniel Martin
+327	55	Introduction to Complex Analysis	3	4.0	5.0	Henry Lewis
+328	37	General Physics II – Electricity and Magnetism	4	5.0	4.0	Stephen King
+329	42	General Physics II – Electricity and Magnetism	4	5.0	4.0	Brandon Nelson
+330	3	Classical Mechanics	3	1.0	2.0	Anthony Jones
+331	56	General Physics II – Electricity and Magnetism	4	5.0	5.0	Douglas Nelson
+332	49	Linear Algebra	3	2.0	2.0	Alexander Phillips
+333	83	Fundamentals of Analysis I	3	4.0	4.0	Billy Turner
+334	22	Introduction to Complex Analysis	3	4.0	3.0	Donald White
+335	79	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Brandon Roberts
+336	6	Fundamentals of Analysis I	3	4.0	5.0	Amanda Anderson
+337	39	Calculus for Science and Engineering II	4	3.0	4.0	Larry Green
+338	64	Introduction to Quantum Mechanics II	3	5.0	5.0	Ryan Hall
+339	9	Introduction to Quantum Mechanics I	3	5.0	5.0	John Smith
+340	61	Fundamentals of Analysis II	3	1.0	3.0	Kyle Robinson
+341	64		4	5.0	5.0	Ryan Hall
+342	88	Introduction to Modern Physics	3	1.0	3.0	Randy Nelson
+343	20	Calculus for Science and Engineering I	4	5.0	3.0	Matthew Jackson
+344	67	Calculus for Science and Engineering III	3	1.0	2.0	Juan Sanchez
+345	13	Linear Algebra	3	2.0	2.0	William Miller
+346	5	Laser Physics	3	4.0	5.0	Andrew White
+347	17	Fundamentals of Analysis II	3	1.0	3.0	Thomas Hernandez
+348	65	Calculus for Science and Engineering III	3	1.0	2.0	Roger Young
+349	79	Calculus for Science and Engineering I	4	5.0	5.0	Brandon Roberts
+350	98	General Physics II – Electricity and Magnetism	4	5.0	5.0	Eugene Allen
+351	20	Elementary Differential Equations	3	2.0	2.0	Matthew Jackson
+352	71	Introduction to Modern Physics	3	1.0	3.0	Keith Green
+353	92	Laser Physics	3	4.0	5.0	Johnny Clark
+354	80	Calculus for Science and Engineering II	4	3.0	2.0	Adam Carter
+355	46	General Physics I – Mechanics	4	4.0	5.0	Frank Mitchell
+356	94	Fundamentals of Analysis II	3	1.0	3.0	Paul Walker
+357	71	Introduction to Quantum Mechanics II	3	5.0	5.0	Keith Green
+358	84	Introduction to Solid State Physics	3	1.0	3.0	Steve Torres
+359	17	General Relativity	3	5.0	5.0	Thomas Hernandez
+360	34	Elementary Differential Equations	3	2.0	3.0	Gary Allen
+361	4	Introduction to Modern Physics	3	1.0	1.0	Jeffrey Thomas
+362	59	General Physics II – Electricity and Magnetism	4	5.0	4.0	Zachary Martinez
+363	74	Introduction to Quantum Mechanics II	3	5.0	5.0	Lawrence Nelson
+364	66	Calculus for Science and Engineering I	4	5.0	5.0	Joe Allen
+365	80	Introduction to Abstract Algebra	3	5.0	3.0	Adam Carter
+366	60	Linear Algebra	3	2.0	4.0	Walter Clark
+367	67	General Physics I – Mechanics	4	4.0	4.0	Juan Sanchez
+368	54	General Physics I – Mechanics	4	4.0	5.0	Aaron White
+369	78	Cosmology and the Structure of the Universe	3	2.0	4.0	Bruce Mitchell
+370	81	Elementary Differential Equations	3	2.0	3.0	Harry Phillips
+371	51	Elementary Differential Equations	3	2.0	4.0	Dennis Turner
+372	82	Modern Cosmology	3	3.0	2.0	Wayne Evans
+373	2	Introduction to Abstract Algebra	3	5.0	4.0	Christopher Baker
+374	56	Introduction to Solid State Physics	3	1.0	3.0	Douglas Nelson
+375	5	General Physics I – Mechanics	4	4.0	5.0	Andrew White
+376	76	Calculus for Science and Engineering III	3	1.0	3.0	Roy Ramirez
+377	40	Physical Optics	3	2.0	3.0	Justin Baker
+378	42	General Physics I – Mechanics	4	4.0	4.0	Brandon Nelson
+379	11	Physical Optics	3	2.0	3.0	Robert Johnson
+380	41	Calculus for Science and Engineering III	3	1.0	1.0	Scott Adams
+381	39	Physical Optics	3	2.0	3.0	Larry Green
+382	83	Introduction to Modern Physics	3	1.0	2.0	Billy Turner
+383	63	Calculus for Science and Engineering II	4	3.0	3.0	Arthur Perez
+384	27	General Relativity	3	5.0	4.0	George Clark
+385	64	Laser Physics	3	4.0	5.0	Ryan Hall
+386	71	Fundamentals of Analysis II	3	1.0	3.0	Keith Green
+387	89	Introduction to Modern Physics	3	1.0	2.0	Eugene Baker
+388	65	Introduction to Solid State Physics	3	1.0	2.0	Roger Young
+389	4	Introduction to Solid State Physics	3	1.0	1.0	Jeffrey Thomas
+390	19	Introduction to Complex Analysis	3	4.0	3.0	Daniel Martin
+391	44	Calculus for Science and Engineering III	3	1.0	1.0	Samuel Ramirez
+392	92	Elementary Differential Equations	3	2.0	4.0	Johnny Clark
+393	56	Fundamentals of Analysis I	3	4.0	5.0	Douglas Nelson
+394	20	Calculus for Science and Engineering II	4	3.0	2.0	Matthew Jackson
+395	6	General Physics II – Electricity and Magnetism	4	5.0	5.0	Amanda Anderson
+396	51	General Relativity	3	5.0	5.0	Dennis Turner
+397	48	General Physics I – Mechanics	4	4.0	5.0	Patrick Carter
+398	8	Classical Mechanics	3	1.0	1.0	Sharon Allen
+399	82	Introduction to Nuclear and Particle Physics	3	5.0	3.0	Wayne Evans
+400	90	General Physics II – Electricity and Magnetism	4	5.0	5.0	Raymond Wilson
+401	66	Calculus for Science and Engineering III	3	1.0	2.0	Joe Allen
+402	86	Laser Physics	3	4.0	4.0	Jeremy White
+403	96	Introduction to Quantum Mechanics I	3	5.0	5.0	Carl Hall
+404	27	Introduction to Modern Physics	3	1.0	2.0	George Clark
+405	84	Linear Algebra	3	2.0	4.0	Steve Torres
+406	50	General Physics II – Electricity and Magnetism	4	5.0	4.0	Jack Evans
+407	84	Elementary Differential Equations	3	2.0	4.0	Steve Torres
+408	71	Introduction to Quantum Mechanics I	3	5.0	5.0	Keith Green
+409	4	Elementary Differential Equations	3	2.0	2.0	Jeffrey Thomas
+410	77	Fundamentals of Analysis II	3	1.0	3.0	Benjamin Campbell
+411	73	Introduction to Quantum Mechanics II	3	5.0	5.0	Willie Adams
+412	9	Calculus for Science and Engineering II	4	3.0	5.0	John Smith
+413	45	Fundamentals of Analysis II	3	1.0	1.0	Gregory Campbell
+414	30	Calculus for Science and Engineering III	3	1.0	2.0	Jason Walker
+415	88	General Physics I – Mechanics	4	4.0	5.0	Randy Nelson
+416	43	General Physics II – Electricity and Magnetism	4	5.0	4.0	Benjamin Hill
+417	60	General Physics II – Electricity and Magnetism	4	5.0	5.0	Walter Clark
+418	40	Introduction to Complex Analysis	3	4.0	4.0	Justin Baker
+419	59	Linear Algebra	3	2.0	3.0	Zachary Martinez
+420	44	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Samuel Ramirez
+421	8	Linear Algebra	3	2.0	2.0	Sharon Allen
+422	7	Introduction to Abstract Algebra	3	5.0	5.0	Timothy Carter
+423	25	Introduction to Modern Physics	3	1.0	3.0	Kevin Gonzalez
+424	29	Introduction to Complex Analysis	3	4.0	5.0	Ronald Robinson
+425	31	Cosmology and the Structure of the Universe	3	2.0	3.0	Jeffrey Perez
+426	87	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Aaron Lewis
+427	63	Introduction to Solid State Physics	3	1.0	2.0	Arthur Perez
+428	21	Introduction to Abstract Algebra	3	5.0	5.0	Mark Thompson
+429	61	Introduction to Abstract Algebra	3	5.0	5.0	Kyle Robinson
+430	34	Modern Cosmology	3	3.0	4.0	Gary Allen
+431	51	Laser Physics	3	4.0	5.0	Dennis Turner
+432	98	Introduction to Modern Physics	3	1.0	3.0	Eugene Allen
+433	8	Physical Optics	3	2.0	2.0	Sharon Allen
+434	45	Calculus for Science and Engineering III	3	1.0	1.0	Gregory Campbell
+435	48	Calculus for Science and Engineering III	3	1.0	3.0	Patrick Carter
+436	68	Classical Mechanics	3	1.0	2.0	Jack Wright
+437	47	Calculus for Science and Engineering I	4	5.0	5.0	Raymond Roberts
+438	39	Calculus for Science and Engineering III	3	1.0	2.0	Larry Green
+439	37	Introduction to Complex Analysis	3	4.0	4.0	Stephen King
+440	43	Introduction to Abstract Algebra	3	5.0	4.0	Benjamin Hill
+441	3	General Relativity	3	5.0	5.0	Anthony Jones
+442	31	Calculus for Science and Engineering II	4	3.0	4.0	Jeffrey Perez
+443	40	Calculus for Science and Engineering II	4	3.0	3.0	Justin Baker
+444	1	Introduction to Solid State Physics	3	1.0	3.0	Jennifer Jones
+445	28	Fundamentals of Analysis II	3	1.0	2.0	Edward Lewis
+446	93	Introduction to Solid State Physics	3	1.0	3.0	Phillip Robinson
+447	18	Introduction to Modern Physics	3	1.0	3.0	Charles Moore
+448	45	General Physics I – Mechanics	4	4.0	3.0	Gregory Campbell
+449	67	Introduction to Modern Physics	3	1.0	2.0	Juan Sanchez
+450	46	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Frank Mitchell
+451	6	Introduction to Modern Physics	3	1.0	2.0	Amanda Anderson
+452	75	Calculus for Science and Engineering III	3	1.0	1.0	Nicholas Hill
+453	43	Cosmology and the Structure of the Universe	3	2.0	3.0	Benjamin Hill
+454	24	Calculus for Science and Engineering III	3	1.0	3.0	Paul Lee
+455	93	Introduction to Modern Physics	3	1.0	3.0	Phillip Robinson
+456	67	Linear Algebra	3	2.0	3.0	Juan Sanchez
+457	1	General Physics II – Electricity and Magnetism	4	5.0	5.0	Jennifer Jones
+458	40	Introduction to Solid State Physics	3	1.0	2.0	Justin Baker
+459	56	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Douglas Nelson
+460	10	Linear Algebra	3	2.0	3.0	Patricia Brown
+461	11	Introduction to Complex Analysis	3	4.0	5.0	Robert Johnson
+462	88	Calculus for Science and Engineering II	4	3.0	5.0	Randy Nelson
+463	5	General Physics II – Electricity and Magnetism	4	5.0	5.0	Andrew White
+464	72	Classical Mechanics	3	1.0	3.0	Samuel Baker
+465	65	Introduction to Complex Analysis	3	4.0	4.0	Roger Young
+466	80	Elementary Differential Equations	3	2.0	2.0	Adam Carter
+467	6	Physical Optics	3	2.0	3.0	Amanda Anderson
+468	7	General Physics II – Electricity and Magnetism	4	5.0	5.0	Timothy Carter
+469	72	Fundamentals of Analysis I	3	4.0	5.0	Samuel Baker
+470	71	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Keith Green
+471	76	Fundamentals of Analysis II	3	1.0	3.0	Roy Ramirez
+472	31	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Jeffrey Perez
+473	37	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Stephen King
+474	55	General Physics I – Mechanics	4	4.0	5.0	Henry Lewis
+475	88	Introduction to Abstract Algebra	3	5.0	5.0	Randy Nelson
+476	3	Introduction to Abstract Algebra	3	5.0	5.0	Anthony Jones
+477	66	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Joe Allen
+478	25	Elementary Differential Equations	3	2.0	4.0	Kevin Gonzalez
+479	57	Introduction to Abstract Algebra	3	5.0	5.0	Adam Baker
+480	66	Introduction to Solid State Physics	3	1.0	2.0	Joe Allen
+481	13	Classical Mechanics	3	1.0	1.0	William Miller
+482	5	Classical Mechanics	3	1.0	2.0	Andrew White
+483	95	Introduction to Quantum Mechanics II	3	5.0	4.0	Larry Perez
+484	33	Introduction to Abstract Algebra	3	5.0	5.0	Jacob Young
+485	86	Physical Optics	3	2.0	3.0	Jeremy White
+486	82	Fundamentals of Analysis II	3	1.0	1.0	Wayne Evans
+487	90	General Physics I – Mechanics	4	4.0	5.0	Raymond Wilson
+488	5	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Andrew White
+489	43	Classical Mechanics	3	1.0	2.0	Benjamin Hill
+490	22	Classical Mechanics	3	1.0	1.0	Donald White
+491	71	Fundamentals of Analysis I	3	4.0	5.0	Keith Green
+492	86	General Physics I – Mechanics	4	4.0	4.0	Jeremy White
+493	34	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Gary Allen
+494	11	Introduction to Quantum Mechanics II	3	5.0	5.0	Robert Johnson
+495	78	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Bruce Mitchell
+496	57	Calculus for Science and Engineering III	3	1.0	2.0	Adam Baker
+497	50	Elementary Differential Equations	3	2.0	3.0	Jack Evans
+498	68	Introduction to Complex Analysis	3	4.0	5.0	Jack Wright
+499	17	General Physics I – Mechanics	4	4.0	5.0	Thomas Hernandez
+500	14	Introduction to Complex Analysis	3	4.0	5.0	David Wilson
+501	24	Introduction to Quantum Mechanics II	3	5.0	5.0	Paul Lee
+502	35	Classical Mechanics	3	1.0	3.0	Nicholas Sanchez
+503	95	Calculus for Science and Engineering III	3	1.0	2.0	Larry Perez
+504	92	General Physics I – Mechanics	4	4.0	5.0	Johnny Clark
+505	65	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Roger Young
+506	70	Calculus for Science and Engineering III	3	1.0	1.0	Gerald Scott
+507	32	General Physics II – Electricity and Magnetism	4	5.0	5.0	Ryan Hall
+508	61	Calculus for Science and Engineering II	4	3.0	5.0	Kyle Robinson
+509	71	Elementary Differential Equations	3	2.0	4.0	Keith Green
+510	47	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Raymond Roberts
+511	63	General Physics II – Electricity and Magnetism	4	5.0	4.0	Arthur Perez
+512	64	Introduction to Modern Physics	3	1.0	2.0	Ryan Hall
+513	9	Elementary Differential Equations	3	2.0	4.0	John Smith
+514	10	Introduction to Quantum Mechanics II	3	5.0	5.0	Patricia Brown
+515	31	Introduction to Modern Physics	3	1.0	2.0	Jeffrey Perez
+516	65	Introduction to Abstract Algebra	3	5.0	4.0	Roger Young
+517	55	Calculus for Science and Engineering III	3	1.0	3.0	Henry Lewis
+518	55	Introduction to Abstract Algebra	3	5.0	5.0	Henry Lewis
+519	73	Elementary Differential Equations	3	2.0	4.0	Willie Adams
+520	10	Calculus for Science and Engineering III	3	1.0	2.0	Patricia Brown
+521	83	Introduction to Quantum Mechanics II	3	5.0	4.0	Billy Turner
+522	38	Linear Algebra	3	2.0	3.0	Jonathan Scott
+523	38	General Physics I – Mechanics	4	4.0	5.0	Jonathan Scott
+524	24	Introduction to Modern Physics	3	1.0	3.0	Paul Lee
+525	61	Introduction to Complex Analysis	3	4.0	5.0	Kyle Robinson
+526	25	General Physics II – Electricity and Magnetism	4	5.0	5.0	Kevin Gonzalez
+527	27	Elementary Differential Equations	3	2.0	3.0	George Clark
+528	62	Introduction to Abstract Algebra	3	5.0	5.0	Carl Walker
+529	44	Introduction to Solid State Physics	3	1.0	1.0	Samuel Ramirez
+530	36	Introduction to Quantum Mechanics II	3	5.0	5.0	Eric Wright
+531	29	Classical Mechanics	3	1.0	3.0	Ronald Robinson
+532	36	Introduction to Quantum Mechanics I	3	5.0	5.0	Eric Wright
+533	90	Fundamentals of Analysis II	3	1.0	3.0	Raymond Wilson
+534	24	Physical Optics	3	2.0	4.0	Paul Lee
+535	82	Introduction to Quantum Mechanics II	3	5.0	3.0	Wayne Evans
+536	36	Calculus for Science and Engineering II	4	3.0	4.0	Eric Wright
+537	25	Introduction to Complex Analysis	3	4.0	5.0	Kevin Gonzalez
+538	38	Introduction to Abstract Algebra	3	5.0	5.0	Jonathan Scott
+539	14	Calculus for Science and Engineering III	3	1.0	3.0	David Wilson
+540	30	Calculus for Science and Engineering I	4	5.0	4.0	Jason Walker
+541	70	Introduction to Quantum Mechanics II	3	5.0	3.0	Gerald Scott
+542	39	Laser Physics	3	4.0	5.0	Larry Green
+543	0	Fundamentals of Analysis II	3	1.0	2.0	Elizabeth White
+544	22	Introduction to Modern Physics	3	1.0	1.0	Donald White
+545	66	Introduction to Quantum Mechanics I	3		5.0	Joe Allen
+546	14	Introduction to Abstract Algebra	3	5.0	5.0	David Wilson
+547	93	Linear Algebra	3	2.0	4.0	Phillip Robinson
+548	53	Laser Physics	3	4.0	5.0	Tyler Anderson
+549	44	Introduction to Quantum Mechanics I	3	5.0	3.0	Samuel Ramirez
+550	54	Introduction to Modern Physics	3	1.0	2.0	Aaron White
+551	61	Introduction to Modern Physics	3	1.0	3.0	Kyle Robinson
+552	31	Calculus for Science and Engineering I	4	5.0	5.0	Jeffrey Perez
+553	79	Calculus for Science and Engineering II	4	3.0	5.0	Brandon Roberts
+554	98	Physical Optics	3	2.0	4.0	Eugene Allen
+555	57	Linear Algebra	3	2.0	3.0	Adam Baker
+556	71	Linear Algebra	3	2.0	4.0	Keith Green
+557	86	Fundamentals of Analysis I	3	4.0	4.0	Jeremy White
+558	52	Calculus for Science and Engineering I	4	5.0	3.0	Jerry Torres
+559	80	Introduction to Modern Physics	3	1.0	1.0	Adam Carter
+560	44	Fundamentals of Analysis II	3	1.0	1.0	Samuel Ramirez
+561	63	Introduction to Abstract Algebra	3	5.0	4.0	Arthur Perez
+562	85	General Physics I – Mechanics	4	4.0	3.0	Louis Anderson
+563	85	Introduction to Abstract Algebra	3	5.0	3.0	Louis Anderson
+564	91	Fundamentals of Analysis II	3	1.0	2.0	Bobby Martinez
+565	66	Laser Physics	3	4.0	5.0	Joe Allen
+566	26	Introduction to Quantum Mechanics II	3	5.0	5.0	Brian Harris
+567	62	Fundamentals of Analysis I	3	4.0	5.0	Carl Walker
+568	64	Calculus for Science and Engineering III	3	1.0	2.0	Ryan Hall
+569	32	General Physics I – Mechanics	4	4.0	5.0	Ryan Hall
+570	26	Calculus for Science and Engineering I	4	5.0	5.0	Brian Harris
+571	23	Calculus for Science and Engineering III	3	1.0	3.0	Steven Lopez
+572	42	Calculus for Science and Engineering I	4	5.0	4.0	Brandon Nelson
+573	61	Calculus for Science and Engineering I	4	5.0	5.0	Kyle Robinson
+574	83	Modern Cosmology	3	3.0	3.0	Billy Turner
+575	36	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Eric Wright
+576	60	General Relativity	3	5.0	5.0	Walter Clark
+577	58	Classical Mechanics	3	1.0	3.0	Nathan Wilson
+578	0	General Physics I – Mechanics	4	4.0	5.0	Elizabeth White
+579	75	General Physics I – Mechanics	4	4.0	3.0	Nicholas Hill
+580	19	Introduction to Quantum Mechanics I	3	5.0	3.0	Daniel Martin
+581	57	Calculus for Science and Engineering I	4	5.0	5.0	Adam Baker
+582	42	Introduction to Quantum Mechanics II	3	5.0	4.0	Brandon Nelson
+583	10	General Physics I – Mechanics	4	4.0	5.0	Patricia Brown
+584	16	Fundamentals of Analysis II	3	1.0	2.0	Joseph Taylor
+585	0	Linear Algebra	3	2.0	3.0	Elizabeth White
+586	39	General Physics I – Mechanics	4	4.0	5.0	Larry Green
+587	58	Introduction to Solid State Physics	3	1.0	3.0	Nathan Wilson
+588	74	General Relativity	3	5.0	5.0	Lawrence Nelson
+589	46	Laser Physics	3	4.0	5.0	Frank Mitchell
+590	64	Introduction to Complex Analysis	3	4.0	5.0	Ryan Hall
+591	91	Fundamentals of Analysis I	3	4.0	5.0	Bobby Martinez
+592	56	Physical Optics	3	2.0	4.0	Douglas Nelson
+593	84	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Steve Torres
+594	19	Fundamentals of Analysis I	3	4.0	3.0	Daniel Martin
+595	26	Laser Physics	3	4.0	5.0	Brian Harris
+596	57	Introduction to Complex Analysis	3	4.0	5.0	Adam Baker
+597	20	Introduction to Quantum Mechanics I	3	5.0	3.0	Matthew Jackson
+598	92	Introduction to Quantum Mechanics I	3	5.0	5.0	Johnny Clark
+599	12	Elementary Differential Equations	3	2.0	2.0	Michael Davis
+600	15	Cosmology and the Structure of the Universe	3	2.0	2.0	Richard Martinez
+601	86	Introduction to Quantum Mechanics II	3	5.0	4.0	Jeremy White
+602	87	Fundamentals of Analysis I	3	4.0	5.0	Aaron Lewis
+603	90	Introduction to Complex Analysis	3	4.0	5.0	Raymond Wilson
+604	97	Calculus for Science and Engineering II	4	3.0	4.0	Howard Young
+605	83	Elementary Differential Equations	3	2.0	3.0	Billy Turner
+606	50	General Relativity	3	5.0	4.0	Jack Evans
+607	7	Introduction to Modern Physics	3	1.0	2.0	Timothy Carter
+608	14	Introduction to Nuclear and Particle Physics	3	5.0	5.0	David Wilson
+609	28	Introduction to Complex Analysis	3	4.0	5.0	Edward Lewis
+610	47	Modern Cosmology	3	3.0	4.0	Raymond Roberts
+611	54	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Aaron White
+612	80	Introduction to Quantum Mechanics I	3	5.0	3.0	Adam Carter
+613	72	Introduction to Quantum Mechanics I	3	5.0	5.0	Samuel Baker
+614	8	General Physics I – Mechanics	4	4.0	3.0	Sharon Allen
+615	17	Introduction to Quantum Mechanics I	3	5.0	5.0	Thomas Hernandez
+616	70	Introduction to Modern Physics	3	1.0	1.0	Gerald Scott
+617	10	Introduction to Quantum Mechanics I	3	5.0	5.0	Patricia Brown
+618	0	General Physics II – Electricity and Magnetism	4	5.0	5.0	Elizabeth White
+619	44	Introduction to Quantum Mechanics II	3	5.0	3.0	Samuel Ramirez
+620	60	General Physics I – Mechanics	4	4.0	5.0	Walter Clark
+621	85	Introduction to Quantum Mechanics I	3	5.0	3.0	Louis Anderson
+622	15	Introduction to Abstract Algebra	3	5.0	3.0	Richard Martinez
+623	51	Introduction to Complex Analysis	3	4.0	5.0	Dennis Turner
+624	80	General Physics II – Electricity and Magnetism	4	5.0	3.0	Adam Carter
+625	17	Linear Algebra	3	2.0	4.0	Thomas Hernandez
+626	57	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Adam Baker
+627	74	Introduction to Complex Analysis	3	4.0	5.0	Lawrence Nelson
+628	76	Introduction to Modern Physics	3	1.0	3.0	Roy Ramirez
+629	56	Fundamentals of Analysis II	3	1.0	3.0	Douglas Nelson
+630	45	Elementary Differential Equations	3	2.0	2.0	Gregory Campbell
+631	9	Fundamentals of Analysis II	3	1.0	3.0	John Smith
+632	70	Introduction to Quantum Mechanics I	3	5.0	3.0	Gerald Scott
+633	86	Modern Cosmology	3	3.0	3.0	Jeremy White
+634	77	Elementary Differential Equations	3	2.0	4.0	Benjamin Campbell
+635	61	Modern Cosmology	3	3.0	5.0	Kyle Robinson
+636	98	Calculus for Science and Engineering III	3	1.0	3.0	Eugene Allen
+637	21	Calculus for Science and Engineering III	3	1.0	3.0	Mark Thompson
+638	71	Introduction to Abstract Algebra	3	5.0	5.0	Keith Green
+639	78	Calculus for Science and Engineering III	3	1.0	3.0	Bruce Mitchell
+640	46	Introduction to Solid State Physics	3	1.0	3.0	Frank Mitchell
+641	11	Introduction to Modern Physics	3	1.0	2.0	Robert Johnson
+642	5	Introduction to Modern Physics	3	1.0	2.0	Andrew White
+643	83	Introduction to Abstract Algebra	3	5.0	4.0	Billy Turner
+644	87	Introduction to Abstract Algebra	3	5.0	5.0	Aaron Lewis
+645	45	General Physics II – Electricity and Magnetism	4	5.0	3.0	Gregory Campbell
+646	96	Linear Algebra	3	2.0	4.0	Carl Hall
+647	83	Classical Mechanics	3	1.0	2.0	Billy Turner
+648	46	Calculus for Science and Engineering I	4	5.0	5.0	Frank Mitchell
+649	90	Calculus for Science and Engineering II	4	3.0	5.0	Raymond Wilson
+650	12	Introduction to Quantum Mechanics I	3	5.0	3.0	Michael Davis
+651	96	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Carl Hall
+652	6	Introduction to Abstract Algebra	3	5.0	5.0	Amanda Anderson
+653	21	General Physics II – Electricity and Magnetism	4	5.0	5.0	Mark Thompson
+654	4	Calculus for Science and Engineering II	4	3.0	2.0	Jeffrey Thomas
+655	42	Introduction to Quantum Mechanics I	3	5.0	4.0	Brandon Nelson
+656	72	Calculus for Science and Engineering II	4	3.0	5.0	Samuel Baker
+657	43	Introduction to Solid State Physics	3	1.0	2.0	Benjamin Hill
+658	60	Classical Mechanics	3	1.0	3.0	Walter Clark
+659	11	Calculus for Science and Engineering III	3	1.0	2.0	Robert Johnson
+660	48	Elementary Differential Equations	3	2.0	4.0	Patrick Carter
+661	40	Cosmology and the Structure of the Universe	3	2.0	3.0	Justin Baker
+662	57	Laser Physics	3	4.0	5.0	Adam Baker
+663	87	Physical Optics	3	2.0	4.0	Aaron Lewis
+664	97	General Physics II – Electricity and Magnetism	4	5.0	5.0	Howard Young
+665	40	Introduction to Modern Physics	3	1.0	2.0	Justin Baker
+666	74	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Lawrence Nelson
+667	43	Introduction to Complex Analysis	3	4.0	4.0	Benjamin Hill
+668	20	Introduction to Abstract Algebra	3	5.0	3.0	Matthew Jackson
+669	98	Introduction to Quantum Mechanics I	3	5.0	5.0	Eugene Allen
+670	51	Calculus for Science and Engineering III	3	1.0	3.0	Dennis Turner
+671	11	Fundamentals of Analysis II	3	1.0	2.0	Robert Johnson
+672	91	Elementary Differential Equations	3	2.0	3.0	Bobby Martinez
+673	72	General Physics II – Electricity and Magnetism	4	5.0	5.0	Samuel Baker
+674	43	Calculus for Science and Engineering I	4	5.0	4.0	Benjamin Hill
+675	55	Introduction to Quantum Mechanics I	3	5.0	5.0	Henry Lewis
+676	45	Physical Optics	3	2.0	2.0	Gregory Campbell
+677	35	Elementary Differential Equations	3	2.0	4.0	Nicholas Sanchez
+678	85	Fundamentals of Analysis I	3	4.0	3.0	Louis Anderson
+679	13	Introduction to Quantum Mechanics I	3	5.0	3.0	William Miller
+680	43	Introduction to Quantum Mechanics II	3	5.0	4.0	Benjamin Hill
+681	95	Linear Algebra	3	2.0	3.0	Larry Perez
+682	91	General Physics I – Mechanics	4	4.0	5.0	Bobby Martinez
+683	36	Fundamentals of Analysis I	3	4.0	5.0	Eric Wright
+684	16	Introduction to Quantum Mechanics II	3	5.0	5.0	Joseph Taylor
+685	62	General Physics I – Mechanics	4	4.0	5.0	Carl Walker
+686	21	Modern Cosmology	3	3.0	5.0	Mark Thompson
+687	35	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Nicholas Sanchez
+688	21	Introduction to Quantum Mechanics I	3	5.0	5.0	Mark Thompson
+689	52	General Physics II – Electricity and Magnetism	4	5.0	3.0	Jerry Torres
+690	65	Introduction to Quantum Mechanics II	3	5.0	4.0	Roger Young
+691	41	Cosmology and the Structure of the Universe	3	2.0	2.0	Scott Adams
+692	16	Calculus for Science and Engineering III	3	1.0	2.0	Joseph Taylor
+693	64	Fundamentals of Analysis I	3	4.0	5.0	Ryan Hall
+694	53	General Physics I – Mechanics	4	4.0	5.0	Tyler Anderson
+695	81	Modern Cosmology	3	3.0	3.0	Harry Phillips
+696	93	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Phillip Robinson
+697	5	Cosmology and the Structure of the Universe	3	2.0	3.0	Andrew White
+698	48	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Patrick Carter
+699	33	Introduction to Quantum Mechanics I	3	5.0	5.0	Jacob Young
+700	93	Fundamentals of Analysis II	3	1.0	3.0	Phillip Robinson
+701	91	Calculus for Science and Engineering I	4	5.0	5.0	Bobby Martinez
+702	17	Elementary Differential Equations	3	2.0	4.0	Thomas Hernandez
+703	45	Introduction to Complex Analysis	3	4.0	3.0	Gregory Campbell
+704	33	Laser Physics	3	4.0	5.0	Jacob Young
+705	41	Modern Cosmology	3	3.0	2.0	Scott Adams
+706	16	Classical Mechanics	3	1.0	2.0	Joseph Taylor
+707	77	Introduction to Modern Physics	3	1.0	3.0	Benjamin Campbell
+708	40	Fundamentals of Analysis I	3	4.0	4.0	Justin Baker
+709	65	General Relativity	3	5.0	4.0	Roger Young
+710	63	Introduction to Complex Analysis	3	4.0	4.0	Arthur Perez
+711	5	Introduction to Complex Analysis	3	4.0	5.0	Andrew White
+712	68	Linear Algebra	3	2.0	3.0	Jack Wright
+713	89	Linear Algebra	3	2.0	3.0	Eugene Baker
+714	85	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Louis Anderson
+715	35	Introduction to Complex Analysis	3	4.0	5.0	Nicholas Sanchez
+716	27	Calculus for Science and Engineering I	4	5.0	4.0	George Clark
+717	18	Elementary Differential Equations	3	2.0	4.0	Charles Moore
+718	12	Introduction to Solid State Physics	3	1.0	1.0	Michael Davis
+719	26	Calculus for Science and Engineering III	3	1.0	3.0	Brian Harris
+720	20	Introduction to Solid State Physics	3	1.0	1.0	Matthew Jackson
+721	80	Introduction to Solid State Physics	3	1.0	1.0	Adam Carter
+722	9	General Physics I – Mechanics	4	4.0	5.0	John Smith
+723	34	Introduction to Modern Physics	3	1.0	2.0	Gary Allen
+724	11	Introduction to Abstract Algebra	3	5.0	5.0	Robert Johnson
+725	48	Fundamentals of Analysis I	3	4.0	5.0	Patrick Carter
+726	40	General Physics II – Electricity and Magnetism	4	5.0	4.0	Justin Baker
+727	85	Calculus for Science and Engineering I	4	5.0	3.0	Louis Anderson
+728	73	Linear Algebra	3	2.0	4.0	Willie Adams
+729	36	General Relativity	3	5.0	5.0	Eric Wright
+730	88	Cosmology and the Structure of the Universe	3	2.0	4.0	Randy Nelson
+731	46	Fundamentals of Analysis I	3	4.0	5.0	Frank Mitchell
+732	61	Linear Algebra	3	2.0	4.0	Kyle Robinson
+733	62	Calculus for Science and Engineering II	4	3.0	4.0	Carl Walker
+734	56	General Physics I – Mechanics	4	4.0	5.0	Douglas Nelson
+735	23	Physical Optics	3	2.0	4.0	Steven Lopez
+736	47	Introduction to Quantum Mechanics I	3	5.0	5.0	Raymond Roberts
+737	40	General Physics I – Mechanics	4	4.0	4.0	Justin Baker
+738	92	Cosmology and the Structure of the Universe	3	2.0	4.0	Johnny Clark
+739	51	Introduction to Quantum Mechanics I	3	5.0	5.0	Dennis Turner
+740	55	Introduction to Modern Physics	3	1.0	3.0	Henry Lewis
+741	94	Cosmology and the Structure of the Universe	3	2.0	4.0	Paul Walker
+742	20	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Matthew Jackson
+743	91	Calculus for Science and Engineering II	4	3.0	4.0	Bobby Martinez
+744	41	Calculus for Science and Engineering I	4	5.0	3.0	Scott Adams
+745	69	Introduction to Quantum Mechanics I	3	5.0	5.0	Harold King
+746	59	Introduction to Quantum Mechanics I	3	5.0	4.0	Zachary Martinez
+747	33	Calculus for Science and Engineering I	4	5.0	5.0	Jacob Young
+748	70	Classical Mechanics	3	1.0	1.0	Gerald Scott
+749	27	General Physics I – Mechanics	4	4.0	4.0	George Clark
+750	29	Introduction to Quantum Mechanics II	3	5.0	5.0	Ronald Robinson
+751	82	Introduction to Complex Analysis	3	4.0	3.0	Wayne Evans
+752	33	Calculus for Science and Engineering III	3	1.0	3.0	Jacob Young
+753	12	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Michael Davis
+754	73	Introduction to Quantum Mechanics I	3	5.0	5.0	Willie Adams
+755	44	Modern Cosmology	3	3.0	2.0	Samuel Ramirez
+756	25	Introduction to Abstract Algebra	3	5.0	5.0	Kevin Gonzalez
+757	71	General Physics II – Electricity and Magnetism	4	5.0	5.0	Keith Green
+758	9	Laser Physics	3	4.0	5.0	John Smith
+759	51	General Physics II – Electricity and Magnetism	4	5.0	5.0	Dennis Turner
+760	59	Fundamentals of Analysis II	3	1.0	2.0	Zachary Martinez
+761	34	Fundamentals of Analysis I	3	4.0	5.0	Gary Allen
+762	33	Introduction to Solid State Physics	3	1.0	3.0	Jacob Young
+763	66	Linear Algebra	3	2.0	3.0	Joe Allen
+764	90	General Relativity	3	5.0	5.0	Raymond Wilson
+765	59	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Zachary Martinez
+766	32	Introduction to Modern Physics	3	1.0	2.0	Ryan Hall
+767	23	Introduction to Quantum Mechanics II	3	5.0	5.0	Steven Lopez
+768	52	Introduction to Modern Physics	3	1.0	1.0	Jerry Torres
+769	16	Introduction to Solid State Physics	3	1.0	2.0	Joseph Taylor
+770	28	Modern Cosmology	3	3.0	4.0	Edward Lewis
+771	48	Physical Optics	3	2.0	4.0	Patrick Carter
+772	55	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Henry Lewis
+773	77	General Physics I – Mechanics	4	4.0	5.0	Benjamin Campbell
+774	38	Fundamentals of Analysis I	3	4.0	5.0	Jonathan Scott
+775	40	Linear Algebra	3	2.0	3.0	Justin Baker
+776	15	Classical Mechanics	3	1.0	1.0	Richard Martinez
+777	50	Physical Optics	3	2.0	3.0	Jack Evans
+778	87	Calculus for Science and Engineering I	4	5.0	5.0	Aaron Lewis
+779	22	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Donald White
+780	9	General Physics II – Electricity and Magnetism	4	5.0	5.0	John Smith
+781	29	Introduction to Modern Physics	3	1.0	3.0	Ronald Robinson
+782	90	Calculus for Science and Engineering III	3	1.0	3.0	Raymond Wilson
+783	32	Fundamentals of Analysis I	3	4.0	5.0	Ryan Hall
+784	8	Laser Physics	3	4.0	3.0	Sharon Allen
+785	67	General Physics II – Electricity and Magnetism	4	5.0	4.0	Juan Sanchez
+786	3	Elementary Differential Equations	3	2.0	3.0	Anthony Jones
+787	15	Fundamentals of Analysis II	3	1.0	1.0	Richard Martinez
+788	36	Modern Cosmology	3	3.0	4.0	Eric Wright
+789	25	Physical Optics	3	2.0	4.0	Kevin Gonzalez
+790	1	Calculus for Science and Engineering I	4	5.0	5.0	Jennifer Jones
+791	76	Introduction to Complex Analysis	3	4.0	5.0	Roy Ramirez
+792	54	Introduction to Quantum Mechanics II	3	5.0	5.0	Aaron White
+793	73	Introduction to Complex Analysis	3	4.0	5.0	Willie Adams
+794	29	General Physics I – Mechanics	4	4.0	5.0	Ronald Robinson
+795	66	Introduction to Quantum Mechanics II	3	5.0	5.0	Joe Allen
+796	10	Calculus for Science and Engineering II	4	3.0	4.0	Patricia Brown
+797	29	Linear Algebra	3	2.0	4.0	Ronald Robinson
+798	25	Cosmology and the Structure of the Universe	3	2.0	4.0	Kevin Gonzalez
+799	39	Linear Algebra	3	2.0	3.0	Larry Green
+800	74	Calculus for Science and Engineering III	3	1.0	2.0	Lawrence Nelson
+801	58	Linear Algebra	3	2.0	4.0	Nathan Wilson
+802	24	Fundamentals of Analysis II	3	1.0	3.0	Paul Lee
+803	81	General Physics I – Mechanics	4	4.0	4.0	Harry Phillips
+804	6	Modern Cosmology	3	3.0	4.0	Amanda Anderson
+805	62	Elementary Differential Equations	3	2.0	3.0	Carl Walker
+806	62	Classical Mechanics	3	1.0	2.0	Carl Walker
+807	21	Elementary Differential Equations	3	2.0	4.0	Mark Thompson
+808	33	Linear Algebra	3	2.0	4.0	Jacob Young
+809	32	Cosmology and the Structure of the Universe	3	2.0	3.0	Ryan Hall
+810	16	Calculus for Science and Engineering I	4	5.0	5.0	Joseph Taylor
+811	8	Introduction to Quantum Mechanics II	3	5.0	3.0	Sharon Allen
+812	0	Introduction to Abstract Algebra	3	5.0	5.0	Elizabeth White
+813	22	Calculus for Science and Engineering I	4	5.0	3.0	Donald White
+814	95	Introduction to Abstract Algebra	3	5.0	4.0	Larry Perez
+815	15	Fundamentals of Analysis I	3	4.0	3.0	Richard Martinez
+816	95	Calculus for Science and Engineering I	4	5.0	4.0	Larry Perez
+817	64	Fundamentals of Analysis II	3	1.0	2.0	Ryan Hall
+818	32	General Relativity	3	5.0	5.0	Ryan Hall
+819	24	Cosmology and the Structure of the Universe	3	2.0	4.0	Paul Lee
+820	37	General Physics I – Mechanics	4	4.0	4.0	Stephen King
+821	65	Fundamentals of Analysis I	3	4.0	4.0	Roger Young
+822	52	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Jerry Torres
+823	94	Physical Optics	3	2.0	4.0	Paul Walker
+824	47	Introduction to Abstract Algebra	3	5.0	5.0	Raymond Roberts
+825	52	Fundamentals of Analysis II	3	1.0	1.0	Jerry Torres
+826	67	Introduction to Solid State Physics	3	1.0	2.0	Juan Sanchez
+827	72	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Samuel Baker
+828	61	Fundamentals of Analysis I	3	4.0	5.0	Kyle Robinson
+829	80	Introduction to Complex Analysis	3	4.0	3.0	Adam Carter
+830	42	Fundamentals of Analysis I	3	4.0	4.0	Brandon Nelson
+831	53	Fundamentals of Analysis I	3	4.0	5.0	Tyler Anderson
+832	14	Fundamentals of Analysis I	3	4.0	5.0	David Wilson
+833	86	General Physics II – Electricity and Magnetism	4	5.0	4.0	Jeremy White
+834	95	Introduction to Quantum Mechanics I	3	5.0	4.0	Larry Perez
+835	61	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Kyle Robinson
+836	41	Fundamentals of Analysis I	3	4.0	3.0	Scott Adams
+837	46	Introduction to Modern Physics	3	1.0	3.0	Frank Mitchell
+838	32	Introduction to Complex Analysis	3	4.0	5.0	Ryan Hall
+839	78	General Physics I – Mechanics	4	4.0	5.0	Bruce Mitchell
+840	87	Elementary Differential Equations	3	2.0	4.0	Aaron Lewis
+841	60	Introduction to Complex Analysis	3	4.0	5.0	Walter Clark
+842	68	Introduction to Solid State Physics	3	1.0	2.0	Jack Wright
+843	87	Linear Algebra	3	2.0	4.0	Aaron Lewis
+844	57	Introduction to Quantum Mechanics I	3	5.0	5.0	Adam Baker
+845	13	Laser Physics	3	4.0	3.0	William Miller
+846	94	Introduction to Quantum Mechanics I	3	5.0	5.0	Paul Walker
+847	57	Classical Mechanics	3	1.0	2.0	Adam Baker
+848	7	Introduction to Complex Analysis	3	4.0	5.0	Timothy Carter
+849	74	Classical Mechanics	3	1.0	2.0	Lawrence Nelson
+850	8	Cosmology and the Structure of the Universe	3	2.0	2.0	Sharon Allen
+851	98	Fundamentals of Analysis I	3	4.0	5.0	Eugene Allen
+852	19	General Physics I – Mechanics	4	4.0	3.0	Daniel Martin
+853	50	Fundamentals of Analysis I	3	4.0	4.0	Jack Evans
+854	91	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Bobby Martinez
+855	75	Classical Mechanics	3	1.0	1.0	Nicholas Hill
+856	94	Elementary Differential Equations	3	2.0	4.0	Paul Walker
+857	37	Physical Optics	3	2.0	3.0	Stephen King
+858	0	Elementary Differential Equations	3	2.0	3.0	Elizabeth White
+859	77	Introduction to Quantum Mechanics I	3	5.0	5.0	Benjamin Campbell
+860	54	General Physics II – Electricity and Magnetism	4	5.0	5.0	Aaron White
+861	23	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Steven Lopez
+862	91	General Physics II – Electricity and Magnetism	4	5.0	5.0	Bobby Martinez
+863	2	Physical Optics	3	2.0	3.0	Christopher Baker
+864	9	Introduction to Quantum Mechanics II	3	5.0	5.0	John Smith
+865	14	Classical Mechanics	3	1.0	3.0	David Wilson
+866	68	Introduction to Quantum Mechanics II	3	5.0	5.0	Jack Wright
+867	38	Introduction to Complex Analysis	3	4.0	5.0	Jonathan Scott
+868	65	Classical Mechanics	3	1.0	2.0	Roger Young
+869	51	Introduction to Abstract Algebra	3	5.0	5.0	Dennis Turner
+870	93	Introduction to Quantum Mechanics II	3	5.0	5.0	Phillip Robinson
+871	89	Fundamentals of Analysis I	3	4.0	4.0	Eugene Baker
+872	35	Fundamentals of Analysis II	3	1.0	3.0	Nicholas Sanchez
+873	2	Linear Algebra	3	2.0	3.0	Christopher Baker
+874	70	Introduction to Complex Analysis	3	4.0	3.0	Gerald Scott
+875	11	Introduction to Quantum Mechanics I	3	5.0	5.0	Robert Johnson
+876	19	General Physics II – Electricity and Magnetism	4	5.0	3.0	Daniel Martin
+877	88	Linear Algebra	3	2.0	4.0	Randy Nelson
+878	38	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Jonathan Scott
+879	14	General Physics I – Mechanics	4	4.0	5.0	David Wilson
+880	63	Introduction to Quantum Mechanics II	3	5.0	4.0	Arthur Perez
+881	45	Introduction to Quantum Mechanics II	3	5.0	3.0	Gregory Campbell
+882	97	Introduction to Quantum Mechanics I	3	5.0	5.0	Howard Young
+883	24	Elementary Differential Equations	3	2.0	4.0	Paul Lee
+884	30	Physical Optics	3	2.0	3.0	Jason Walker
+885	51	Fundamentals of Analysis II	3	1.0	3.0	Dennis Turner
+886	43	Introduction to Modern Physics	3	1.0	2.0	Benjamin Hill
+887	4	Introduction to Quantum Mechanics II	3	5.0	3.0	Jeffrey Thomas
+888	65	General Physics II – Electricity and Magnetism	4	5.0	4.0	Roger Young
+889	43	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Benjamin Hill
+890	57	Introduction to Modern Physics	3	1.0	2.0	Adam Baker
+891	71	Introduction to Solid State Physics	3	1.0	3.0	Keith Green
+892	73	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Willie Adams
+893	83	General Relativity	3	5.0	4.0	Billy Turner
+894	85	Elementary Differential Equations	3	2.0	2.0	Louis Anderson
+895	98	Linear Algebra	3	2.0	4.0	Eugene Allen
+896	34	General Physics II – Electricity and Magnetism	4	5.0	5.0	Gary Allen
+897	28	Classical Mechanics	3	1.0	2.0	Edward Lewis
+898	26	General Physics II – Electricity and Magnetism	4	5.0	5.0	Brian Harris
+899	3	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Anthony Jones
+900	3	Introduction to Modern Physics	3	1.0	2.0	Anthony Jones
+901	68	Elementary Differential Equations	3	2.0	3.0	Jack Wright
+902	71	Calculus for Science and Engineering II	4	3.0	5.0	Keith Green
+903	29	Elementary Differential Equations	3	2.0	4.0	Ronald Robinson
+904	86	Elementary Differential Equations	3	2.0	3.0	Jeremy White
+905	96	Laser Physics	3	4.0	5.0	Carl Hall
+906	5	Introduction to Abstract Algebra	3	5.0	5.0	Andrew White
+907	33	General Physics I – Mechanics	4	4.0	5.0	Jacob Young
+908	93	General Physics II – Electricity and Magnetism	4	5.0	5.0	Phillip Robinson
+909	25	General Physics I – Mechanics	4	4.0	5.0	Kevin Gonzalez
+910	5	Calculus for Science and Engineering I	4	5.0	5.0	Andrew White
+911	49	Introduction to Abstract Algebra	3	5.0	3.0	Alexander Phillips
+912	52	Fundamentals of Analysis I	3	4.0	3.0	Jerry Torres
+913	27	Introduction to Quantum Mechanics II	3	5.0	4.0	George Clark
+914	72	Fundamentals of Analysis II	3	1.0	3.0	Samuel Baker
+915	34	Linear Algebra	3	2.0	3.0	Gary Allen
+916	95	Introduction to Complex Analysis	3	4.0	4.0	Larry Perez
+917	60	Introduction to Quantum Mechanics II	3	5.0	5.0	Walter Clark
+918	8	Elementary Differential Equations	3	2.0	2.0	Sharon Allen
+919	77	General Physics II – Electricity and Magnetism	4	5.0	5.0	Benjamin Campbell
+920	4	Modern Cosmology	3	3.0	2.0	Jeffrey Thomas
+921	90	Calculus for Science and Engineering I	4	5.0	5.0	Raymond Wilson
+922	1	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Jennifer Jones
+923	62	Linear Algebra	3	2.0	3.0	Carl Walker
+924	75	Fundamentals of Analysis I	3	4.0	3.0	Nicholas Hill
+925	35	Introduction to Quantum Mechanics I	3	5.0	5.0	Nicholas Sanchez
+926	18	Introduction to Solid State Physics	3	1.0	3.0	Charles Moore
+927	35	Linear Algebra	3	2.0	4.0	Nicholas Sanchez
+928	84	Laser Physics	3	4.0	5.0	Steve Torres
+929	45	Introduction to Quantum Mechanics I	3	5.0	3.0	Gregory Campbell
+930	81	Linear Algebra	3	2.0	3.0	Harry Phillips
+931	29	Fundamentals of Analysis I	3	4.0	5.0	Ronald Robinson
+932	94	Introduction to Quantum Mechanics II	3	5.0	5.0	Paul Walker
+933	4	Fundamentals of Analysis I	3	4.0	3.0	Jeffrey Thomas
+934	56	Elementary Differential Equations	3	2.0	4.0	Douglas Nelson
+935	15	Calculus for Science and Engineering I	4	5.0	3.0	Richard Martinez
+936	48	Introduction to Complex Analysis	3	4.0	5.0	Patrick Carter
+937	28	Introduction to Quantum Mechanics II	3	5.0	5.0	Edward Lewis
+938	59	Introduction to Solid State Physics	3	1.0	2.0	Zachary Martinez
+939	25	Linear Algebra	3	2.0	4.0	Kevin Gonzalez
+940	10	Fundamentals of Analysis II	3	1.0	2.0	Patricia Brown
+941	92	Fundamentals of Analysis I	3	4.0	5.0	Johnny Clark
+942	32	Laser Physics	3	4.0	5.0	Ryan Hall
+943	29	General Physics II – Electricity and Magnetism	4	5.0	5.0	Ronald Robinson
+944	75	Linear Algebra	3	2.0	2.0	Nicholas Hill
+945	67	Fundamentals of Analysis II	3	1.0	2.0	Juan Sanchez
+946	66	Fundamentals of Analysis II	3	1.0	2.0	Joe Allen
+947	95	General Physics I – Mechanics	4	4.0	4.0	Larry Perez
+948	77	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Benjamin Campbell
+949	38	Calculus for Science and Engineering II	4	3.0	4.0	Jonathan Scott
+950	92	Introduction to Complex Analysis	3	4.0	5.0	Johnny Clark
+951	53	Introduction to Quantum Mechanics II	3	5.0	5.0	Tyler Anderson
+952	0	Physical Optics	3	2.0	3.0	Elizabeth White
+953	32	Elementary Differential Equations	3	2.0	3.0	Ryan Hall
+954	17	Introduction to Modern Physics	3	1.0	3.0	Thomas Hernandez
+955	98	Introduction to Solid State Physics	3	1.0	3.0	Eugene Allen
+956	48	Linear Algebra	3	2.0	4.0	Patrick Carter
+957	78	Introduction to Quantum Mechanics I	3	5.0	5.0	Bruce Mitchell
+958	12	Classical Mechanics	3	1.0	1.0	Michael Davis
+959	62	Calculus for Science and Engineering I	4	5.0	5.0	Carl Walker
+960	96	Introduction to Complex Analysis	3	4.0	5.0	Carl Hall
+961	18	Introduction to Complex Analysis	3	4.0	5.0	Charles Moore
+962	95	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Larry Perez
+963	97	Linear Algebra	3	2.0	3.0	Howard Young
+964	51	Introduction to Quantum Mechanics II	3	5.0	5.0	Dennis Turner
+965	17	Introduction to Solid State Physics	3	1.0	3.0	Thomas Hernandez
+966	21	Introduction to Complex Analysis	3	4.0	5.0	Mark Thompson
+967	80	Introduction to Quantum Mechanics II	3	5.0	3.0	Adam Carter
+968	56	Introduction to Abstract Algebra	3	5.0	5.0	Douglas Nelson
+969	44	Classical Mechanics	3	1.0	1.0	Samuel Ramirez
+970	68	Calculus for Science and Engineering II	4	3.0	4.0	Jack Wright
+971	54	Introduction to Solid State Physics	3	1.0	2.0	Aaron White
+972	73	Modern Cosmology	3	3.0	5.0	Willie Adams
+973	49	General Physics II – Electricity and Magnetism	4	5.0	3.0	Alexander Phillips
+974	4	Introduction to Quantum Mechanics I	3	5.0	3.0	Jeffrey Thomas
+975	52	Elementary Differential Equations	3	2.0	2.0	Jerry Torres
+976	21	Classical Mechanics	3	1.0	3.0	Mark Thompson
+977	88	Introduction to Quantum Mechanics II	3	5.0	5.0	Randy Nelson
+978	36	General Physics II – Electricity and Magnetism	4	5.0	5.0	Eric Wright
+979	67	Physical Optics	3	2.0	3.0	Juan Sanchez
+980	32	Introduction to Abstract Algebra	3	5.0	5.0	Ryan Hall
+981	20	Introduction to Modern Physics	3	1.0	1.0	Matthew Jackson
+982	22	General Physics I – Mechanics	4	4.0	3.0	Donald White
+983	15	Calculus for Science and Engineering III	3	1.0	1.0	Richard Martinez
+984	12	Calculus for Science and Engineering II	4	3.0	2.0	Michael Davis
+985	46	Classical Mechanics	3	1.0	3.0	Frank Mitchell
+986	44	Introduction to Abstract Algebra	3	5.0	3.0	Samuel Ramirez
+987	32	Introduction to Quantum Mechanics II	3	5.0	5.0	Ryan Hall
+988	26	Fundamentals of Analysis II	3	1.0	3.0	Brian Harris
+989	16	Introduction to Modern Physics	3	1.0	2.0	Joseph Taylor
+990	30	Fundamentals of Analysis I	3	4.0	4.0	Jason Walker
+991	68	Calculus for Science and Engineering III	3	1.0	2.0	Jack Wright
+992	78	Linear Algebra	3	2.0	4.0	Bruce Mitchell
+993	56	Introduction to Complex Analysis	3	4.0	5.0	Douglas Nelson
+994	93	Introduction to Complex Analysis	3	4.0	5.0	Phillip Robinson
+995	49	Introduction to Quantum Mechanics II	3	5.0	3.0	Alexander Phillips
+996	81	Calculus for Science and Engineering I	4	5.0	4.0	Harry Phillips
+997	57	Fundamentals of Analysis I	3	4.0	5.0	Adam Baker
+998	48	Introduction to Quantum Mechanics I	3	5.0	5.0	Patrick Carter
+999	64	General Physics I – Mechanics	4	4.0	5.0	Ryan Hall
+1000	90	Introduction to Quantum Mechanics I	3	5.0	5.0	Raymond Wilson
+1001	79	General Physics I – Mechanics	4	4.0	5.0	Brandon Roberts
+1002	24	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Paul Lee
+1003	18	General Physics I – Mechanics	4	4.0	5.0	Charles Moore
+1004	37	Calculus for Science and Engineering I	4	5.0	4.0	Stephen King
+1005	0	General Relativity	3	5.0	5.0	Elizabeth White
+1006	53	Elementary Differential Equations	3	2.0	4.0	Tyler Anderson
+1007	73	Fundamentals of Analysis II	3	1.0	3.0	Willie Adams
+1008	2	Calculus for Science and Engineering II	4	3.0	3.0	Christopher Baker
+1009	52	Introduction to Quantum Mechanics II	3	5.0	3.0	Jerry Torres
+1010	27	Introduction to Quantum Mechanics I	3	5.0	4.0	George Clark
+1011	19	Calculus for Science and Engineering I	4	5.0	3.0	Daniel Martin
+1012	31	Fundamentals of Analysis II	3	1.0	2.0	Jeffrey Perez
+1013	87	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Aaron Lewis
+1014	36	Introduction to Abstract Algebra	3	5.0	5.0	Eric Wright
+1015	60	Calculus for Science and Engineering I	4	5.0	5.0	Walter Clark
+1016	53	Introduction to Modern Physics	3	1.0	3.0	Tyler Anderson
+1017	85	Classical Mechanics	3	1.0	1.0	Louis Anderson
+1018	17	Introduction to Quantum Mechanics II	3	5.0	5.0	Thomas Hernandez
+1019	20	Calculus for Science and Engineering III	3	1.0	1.0	Matthew Jackson
+1020	59	Introduction to Abstract Algebra	3	5.0	4.0	Zachary Martinez
+1021	19	Elementary Differential Equations	3	2.0	2.0	Daniel Martin
+1022	14	Introduction to Quantum Mechanics I	3	5.0	5.0	David Wilson
+1023	22	Fundamentals of Analysis II	3	1.0	1.0	Donald White
+1024	12	General Physics I – Mechanics	4	4.0	3.0	Michael Davis
+1025	82	Fundamentals of Analysis I	3	4.0	3.0	Wayne Evans
+1026	55	Elementary Differential Equations	3	2.0	4.0	Henry Lewis
+1027	66	General Physics I – Mechanics	4	4.0	5.0	Joe Allen
+1028	40	Introduction to Quantum Mechanics II	3	5.0	4.0	Justin Baker
+1029	80	Fundamentals of Analysis I	3	4.0	3.0	Adam Carter
+1030	70	Introduction to Nuclear and Particle Physics	3	5.0	3.0	Gerald Scott
+1031	91	Introduction to Modern Physics	3	1.0	2.0	Bobby Martinez
+1032	8	General Physics II – Electricity and Magnetism	4	5.0	3.0	Sharon Allen
+1033	10	Calculus for Science and Engineering I	4	5.0	5.0	Patricia Brown
+1034	60	Fundamentals of Analysis II	3	1.0	3.0	Walter Clark
+1035	2	Laser Physics	3	4.0	4.0	Christopher Baker
+1036	84	Fundamentals of Analysis II	3	1.0	3.0	Steve Torres
+1037	50	Calculus for Science and Engineering III	3	1.0	2.0	Jack Evans
+1038	46	Calculus for Science and Engineering III	3	1.0	3.0	Frank Mitchell
+1039	26	Calculus for Science and Engineering II	4	3.0	5.0	Brian Harris
+1040	97	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Howard Young
+1041	4	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Jeffrey Thomas
+1042	6	Elementary Differential Equations	3	2.0	3.0	Amanda Anderson
+1043	74	Introduction to Quantum Mechanics I	3	5.0	5.0	Lawrence Nelson
+1044	0	Introduction to Quantum Mechanics II	3	5.0	5.0	Elizabeth White
+1045	51	Linear Algebra	3	2.0	4.0	Dennis Turner
+1046	0	Classical Mechanics	3	1.0	2.0	Elizabeth White
+1047	79	Introduction to Quantum Mechanics II	3	5.0	5.0	Brandon Roberts
+1048	46	Introduction to Complex Analysis	3	4.0	5.0	Frank Mitchell
+1049	76	Classical Mechanics	3	1.0	3.0	Roy Ramirez
+1050	23	Laser Physics	3	4.0	5.0	Steven Lopez
+1051	3	General Physics I – Mechanics	4	4.0	5.0	Anthony Jones
+1052	24	Calculus for Science and Engineering II	4	3.0	5.0	Paul Lee
+1053	26	Classical Mechanics	3	1.0	3.0	Brian Harris
+1054	75	Introduction to Modern Physics	3	1.0	1.0	Nicholas Hill
+1055	56	Introduction to Modern Physics	3	1.0	3.0	Douglas Nelson
+1056	74	Calculus for Science and Engineering II	4	3.0	4.0	Lawrence Nelson
+1057	57	Fundamentals of Analysis II	3	1.0	2.0	Adam Baker
+1058	81	Introduction to Abstract Algebra	3	5.0	4.0	Harry Phillips
+1059	95	Elementary Differential Equations	3	2.0	3.0	Larry Perez
+1060	8	Calculus for Science and Engineering III	3	1.0	1.0	Sharon Allen
+1061	21	General Relativity	3	5.0	5.0	Mark Thompson
+1062	37	Introduction to Abstract Algebra	3	5.0	4.0	Stephen King
+1063	74	Introduction to Abstract Algebra	3	5.0	5.0	Lawrence Nelson
+1064	96	Introduction to Abstract Algebra	3	5.0	5.0	Carl Hall
+1065	83	Introduction to Complex Analysis	3	4.0	4.0	Billy Turner
+1066	10	Elementary Differential Equations	3	2.0	3.0	Patricia Brown
+1067	78	Fundamentals of Analysis II	3	1.0	3.0	Bruce Mitchell
+1068	8	Introduction to Quantum Mechanics I	3	5.0	3.0	Sharon Allen
+1069	44	Elementary Differential Equations	3	2.0	2.0	Samuel Ramirez
+1070	89	Introduction to Complex Analysis	3	4.0	4.0	Eugene Baker
+1071	5	Calculus for Science and Engineering III	3	1.0	2.0	Andrew White
+1072	21	Calculus for Science and Engineering I	4	5.0	5.0	Mark Thompson
+1073	85	Linear Algebra	3	2.0	2.0	Louis Anderson
+1074	28	Elementary Differential Equations	3	2.0	3.0	Edward Lewis
+1075	8	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Sharon Allen
+1076	6	Linear Algebra	3	2.0	3.0	Amanda Anderson
+1077	10	Cosmology and the Structure of the Universe	3	2.0	3.0	Patricia Brown
+1078	50	General Physics I – Mechanics	4	4.0	4.0	Jack Evans
+1079	89	Laser Physics	3	4.0	4.0	Eugene Baker
+1080	72	Calculus for Science and Engineering I	4	5.0	5.0	Samuel Baker
+1081	51	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Dennis Turner
+1082	70	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Gerald Scott
+1083	64	Introduction to Abstract Algebra	3	5.0	5.0	Ryan Hall
+1084	59	Classical Mechanics	3	1.0	2.0	Zachary Martinez
+1085	26	Physical Optics	3	2.0	4.0	Brian Harris
+1086	15	Elementary Differential Equations	3	2.0	2.0	Richard Martinez
+1087	5	Fundamentals of Analysis I	3	4.0	5.0	Andrew White
+1088	13	General Physics I – Mechanics	4	4.0	3.0	William Miller
+1089	12	Fundamentals of Analysis I	3	4.0	3.0	Michael Davis
+1090	86	Calculus for Science and Engineering III	3	1.0	2.0	Jeremy White
+1091	31	Introduction to Quantum Mechanics II	3	5.0	5.0	Jeffrey Perez
+1092	53	Calculus for Science and Engineering II	4	3.0	5.0	Tyler Anderson
+1093	91	Calculus for Science and Engineering III	3	1.0	2.0	Bobby Martinez
+1094	98	Fundamentals of Analysis II	3	1.0	3.0	Eugene Allen
+1095	52	Introduction to Complex Analysis	3	4.0	3.0	Jerry Torres
+1096	77	Calculus for Science and Engineering III	3	1.0	3.0	Benjamin Campbell
+1097	46	Introduction to Quantum Mechanics I	3	5.0	5.0	Frank Mitchell
+1098	17	Fundamentals of Analysis I	3	4.0	5.0	Thomas Hernandez
+1099	91	Cosmology and the Structure of the Universe	3	2.0	3.0	Bobby Martinez
+1100	27	Modern Cosmology	3	3.0	3.0	George Clark
+1101	69	Cosmology and the Structure of the Universe	3	2.0	4.0	Harold King
+1102	73	General Physics II – Electricity and Magnetism	4	5.0	5.0	Willie Adams
+1103	71	Introduction to Complex Analysis	3	4.0	5.0	Keith Green
+1104	15	Introduction to Quantum Mechanics II	3	5.0	3.0	Richard Martinez
+1105	57	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Adam Baker
+1106	27	Calculus for Science and Engineering III	3	1.0	2.0	George Clark
+1107	19	Introduction to Quantum Mechanics II	3	5.0	3.0	Daniel Martin
+1108	32	Calculus for Science and Engineering III	3	1.0	2.0	Ryan Hall
+1109	29	Calculus for Science and Engineering I	4	5.0	5.0	Ronald Robinson
+1110	13	Cosmology and the Structure of the Universe	3	2.0	2.0	William Miller
+1111	74	General Physics II – Electricity and Magnetism	4	5.0	5.0	Lawrence Nelson
+1112	30	Introduction to Quantum Mechanics II	3	5.0	4.0	Jason Walker
+1113	14	Calculus for Science and Engineering I	4	5.0	5.0	David Wilson
+1114	22	Cosmology and the Structure of the Universe	3	2.0	2.0	Donald White
+1115	4	Cosmology and the Structure of the Universe	3	2.0	2.0	Jeffrey Thomas
+1116	83	Fundamentals of Analysis II	3	1.0	2.0	Billy Turner
+1117	87	General Physics I – Mechanics	4	4.0	5.0	Aaron Lewis
+1118	40	Elementary Differential Equations	3	2.0	3.0	Justin Baker
+1119	33	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Jacob Young
+1120	69	Linear Algebra	3	2.0	4.0	Harold King
+1121	55	Fundamentals of Analysis I	3	4.0	5.0	Henry Lewis
+1122	17	Introduction to Abstract Algebra	3	5.0	5.0	Thomas Hernandez
+1123	30	Introduction to Modern Physics	3	1.0	2.0	Jason Walker
+1124	3	Modern Cosmology	3	3.0	4.0	Anthony Jones
+1125	52	Linear Algebra	3	2.0	2.0	Jerry Torres
+1126	22	Introduction to Quantum Mechanics II	3	5.0	3.0	Donald White
+1127	3	Introduction to Complex Analysis	3	4.0	5.0	Anthony Jones
+1128	49	Physical Optics	3	2.0	2.0	Alexander Phillips
+1129	30	Fundamentals of Analysis II	3	1.0	2.0	Jason Walker
+1130	30	Introduction to Complex Analysis	3	4.0	4.0	Jason Walker
+1131	58	Introduction to Complex Analysis	3	4.0	5.0	Nathan Wilson
+1132	93	General Physics I – Mechanics	4	4.0	5.0	Phillip Robinson
+1133	7	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Timothy Carter
+1134	7	Calculus for Science and Engineering II	4	3.0	4.0	Timothy Carter
+1135	66	Classical Mechanics	3	1.0	2.0	Joe Allen
+1136	19	Introduction to Abstract Algebra	3	5.0	3.0	Daniel Martin
+1137	98	Classical Mechanics	3	1.0	3.0	Eugene Allen
+1138	36	Cosmology and the Structure of the Universe	3	2.0	3.0	Eric Wright
+1139	23	Calculus for Science and Engineering II	4	3.0	5.0	Steven Lopez
+1140	17	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Thomas Hernandez
+1141	49	Fundamentals of Analysis I	3	4.0	3.0	Alexander Phillips
+1142	55	Fundamentals of Analysis II	3	1.0	3.0	Henry Lewis
+1143	92	General Physics II – Electricity and Magnetism	4	5.0	5.0	Johnny Clark
+1144	75	Physical Optics	3	2.0	2.0	Nicholas Hill
+1145	18	Classical Mechanics	3	1.0	3.0	Charles Moore
+1146	31	Introduction to Complex Analysis	3	4.0	5.0	Jeffrey Perez
+1147	86	Calculus for Science and Engineering I	4	5.0	4.0	Jeremy White
+1148	43	Calculus for Science and Engineering III	3	1.0	2.0	Benjamin Hill
+1149	78	Introduction to Complex Analysis	3	4.0	5.0	Bruce Mitchell
+1150	55	Introduction to Quantum Mechanics II	3	5.0	5.0	Henry Lewis
+1151	18	Calculus for Science and Engineering II	4	3.0	5.0	Charles Moore
+1152	97	Introduction to Modern Physics	3	1.0	2.0	Howard Young
+1153	70	General Physics I – Mechanics	4	4.0	3.0	Gerald Scott
+1154	2	Introduction to Quantum Mechanics I	3	5.0	4.0	Christopher Baker
+1155	35	General Relativity	3	5.0	5.0	Nicholas Sanchez
+1156	27	Linear Algebra	3	2.0	3.0	George Clark
+1157	13	Introduction to Abstract Algebra	3	5.0	3.0	William Miller
+1158	93	Modern Cosmology	3	3.0	5.0	Phillip Robinson
+1159	53	Modern Cosmology	3	3.0	5.0	Tyler Anderson
+1160	40	Introduction to Abstract Algebra	3	5.0	4.0	Justin Baker
+1161	59	Introduction to Complex Analysis	3	4.0	4.0	Zachary Martinez
+1162	51	General Physics I – Mechanics	4	4.0	5.0	Dennis Turner
+1163	41	Physical Optics	3	2.0	2.0	Scott Adams
+1164	55	Calculus for Science and Engineering I	4	5.0	5.0	Henry Lewis
+1165	21	Introduction to Quantum Mechanics II	3	5.0	5.0	Mark Thompson
+1166	63	Modern Cosmology	3	3.0	3.0	Arthur Perez
+1167	85	Introduction to Complex Analysis	3	4.0	3.0	Louis Anderson
+1168	87	General Physics II – Electricity and Magnetism	4	5.0	5.0	Aaron Lewis
+1169	30	Modern Cosmology	3	3.0	3.0	Jason Walker
+1170	69	Introduction to Abstract Algebra	3	5.0	5.0	Harold King
+1171	34	Introduction to Abstract Algebra	3	5.0	5.0	Gary Allen
+1172	50	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Jack Evans
+1173	34	Introduction to Quantum Mechanics I	3	5.0	5.0	Gary Allen
+1174	72	Calculus for Science and Engineering III	3	1.0	3.0	Samuel Baker
+1175	72	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Samuel Baker
+1176	97	Classical Mechanics	3	1.0	2.0	Howard Young
+1177	42	Introduction to Complex Analysis	3	4.0	4.0	Brandon Nelson
+1178	11	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Robert Johnson
+1179	84	Modern Cosmology	3	3.0	5.0	Steve Torres
+1180	17	Introduction to Complex Analysis	3	4.0	5.0	Thomas Hernandez
+1181	74	Physical Optics	3	2.0	3.0	Lawrence Nelson
+1182	51	Introduction to Solid State Physics	3	1.0	3.0	Dennis Turner
+1183	68	Introduction to Modern Physics	3	1.0	2.0	Jack Wright
+1184	79	Introduction to Modern Physics	3	1.0	3.0	Brandon Roberts
+1185	1	Elementary Differential Equations	3	2.0	4.0	Jennifer Jones
+1186	84	Fundamentals of Analysis I	3	4.0	5.0	Steve Torres
+1187	96	Elementary Differential Equations	3	2.0	4.0	Carl Hall
+1188	17	Calculus for Science and Engineering III	3	1.0	3.0	Thomas Hernandez
+1189	28	Physical Optics	3	2.0	3.0	Edward Lewis
+1190	79	Fundamentals of Analysis I	3	4.0	5.0	Brandon Roberts
+1191	9	Calculus for Science and Engineering I	4	5.0	5.0	John Smith
+1192	13	Calculus for Science and Engineering III	3	1.0	1.0	William Miller
+1193	24	Introduction to Quantum Mechanics I	3	5.0	5.0	Paul Lee
+1194	27	Laser Physics	3	4.0	4.0	George Clark
+1195	36	Linear Algebra	3	2.0	3.0	Eric Wright
+1196	12	Introduction to Quantum Mechanics II	3	5.0	3.0	Michael Davis
+1197	89	Introduction to Quantum Mechanics I	3	5.0	4.0	Eugene Baker
+1198	0	Calculus for Science and Engineering II	4	3.0	4.0	Elizabeth White
+1199	94	Linear Algebra	3	2.0	4.0	Paul Walker
+1200	6	Classical Mechanics	3	1.0	2.0	Amanda Anderson
+1201	65	Fundamentals of Analysis II	3	1.0	2.0	Roger Young
+1202	18	General Physics II – Electricity and Magnetism	4	5.0	5.0	Charles Moore
+1203	53	Introduction to Abstract Algebra	3	5.0	5.0	Tyler Anderson
+1204	90	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Raymond Wilson
+1205	78	Introduction to Modern Physics	3	1.0	3.0	Bruce Mitchell
+1206	25	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Kevin Gonzalez
+1207	19	Classical Mechanics	3	1.0	1.0	Daniel Martin
+1208	41	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Scott Adams
+1209	36	Calculus for Science and Engineering I	4	5.0	5.0	Eric Wright
+1210	32	Linear Algebra	3	2.0	3.0	Ryan Hall
+1211	8	Introduction to Modern Physics	3	1.0	1.0	Sharon Allen
+1212	49	Calculus for Science and Engineering I	4	5.0	3.0	Alexander Phillips
+1213	75	Calculus for Science and Engineering I	4	5.0	3.0	Nicholas Hill
+1214	6	Introduction to Quantum Mechanics II	3	5.0	5.0	Amanda Anderson
+1215	89	General Physics II – Electricity and Magnetism	4	5.0	4.0	Eugene Baker
+1216	14	Elementary Differential Equations	3	2.0	4.0	David Wilson
+1217	9	Thermodynamics and Statistical Mechanics	3	4.0	5.0	John Smith
+1218	65	Calculus for Science and Engineering I	4	5.0	4.0	Roger Young
+1219	15	Physical Optics	3	2.0	2.0	Richard Martinez
+1220	18	Introduction to Abstract Algebra	3	5.0	5.0	Charles Moore
+1221	21	Introduction to Modern Physics	3	1.0	3.0	Mark Thompson
+1222	79	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Brandon Roberts
+1223	89	General Relativity	3	5.0	4.0	Eugene Baker
+1224	61	Classical Mechanics	3	1.0	3.0	Kyle Robinson
+1225	49	Introduction to Quantum Mechanics I	3	5.0	3.0	Alexander Phillips
+1226	13	General Physics II – Electricity and Magnetism	4	5.0	3.0	William Miller
+1227	70	Calculus for Science and Engineering II	4	3.0	2.0	Gerald Scott
+1228	9	Introduction to Complex Analysis	3	4.0	5.0	John Smith
+1229	6	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Amanda Anderson
+1230	92	Calculus for Science and Engineering II	4	3.0	5.0	Johnny Clark
+1231	75	Introduction to Complex Analysis	3	4.0	3.0	Nicholas Hill
+1232	7	Modern Cosmology	3	3.0	4.0	Timothy Carter
+1233	44	Fundamentals of Analysis I	3	4.0	3.0	Samuel Ramirez
+1234	75	Modern Cosmology	3	3.0	2.0	Nicholas Hill
+1235	33	Fundamentals of Analysis I	3	4.0	5.0	Jacob Young
+1236	5	Elementary Differential Equations	3	2.0	3.0	Andrew White
+1237	66	Physical Optics	3	2.0	3.0	Joe Allen
+1238	47	Linear Algebra	3	2.0	3.0	Raymond Roberts
+1239	77	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Benjamin Campbell
+1240	62	Introduction to Solid State Physics	3	1.0	2.0	Carl Walker
+1241	85	Modern Cosmology	3	3.0	2.0	Louis Anderson
+1242	26	Fundamentals of Analysis I	3	4.0	5.0	Brian Harris
+1243	53	Calculus for Science and Engineering III	3	1.0	3.0	Tyler Anderson
+1244	68	General Physics I – Mechanics	4	4.0	5.0	Jack Wright
+1245	63	Classical Mechanics	3	1.0	2.0	Arthur Perez
+1246	93	Calculus for Science and Engineering I	4	5.0	5.0	Phillip Robinson
+1247	94	Fundamentals of Analysis I	3	4.0	5.0	Paul Walker
+1248	7	Calculus for Science and Engineering I	4	5.0	5.0	Timothy Carter
+1249	90	Cosmology and the Structure of the Universe	3	2.0	4.0	Raymond Wilson
+1250	69	Fundamentals of Analysis II	3	1.0	3.0	Harold King
+1251	76	General Physics I – Mechanics	4	4.0	5.0	Roy Ramirez
+1252	85	Fundamentals of Analysis II	3	1.0	1.0	Louis Anderson
+1253	69	Introduction to Modern Physics	3	1.0	3.0	Harold King
+1254	40	Calculus for Science and Engineering III	3	1.0	2.0	Justin Baker
+1255	76	Introduction to Abstract Algebra	3	5.0	5.0	Roy Ramirez
+1256	68	Introduction to Abstract Algebra	3	5.0	5.0	Jack Wright
+1257	1	Introduction to Complex Analysis	3	4.0	5.0	Jennifer Jones
+1258	86	Introduction to Complex Analysis	3	4.0	4.0	Jeremy White
+1259	52	Introduction to Abstract Algebra	3	5.0	3.0	Jerry Torres
+1260	7	Linear Algebra	3	2.0	3.0	Timothy Carter
+1261	37	Introduction to Modern Physics	3	1.0	2.0	Stephen King
+1262	96	Introduction to Solid State Physics	3	1.0	3.0	Carl Hall
+1263	24	Linear Algebra	3	2.0	4.0	Paul Lee
+1264	80	Physical Optics	3	2.0	2.0	Adam Carter
+1265	31	Classical Mechanics	3	1.0	2.0	Jeffrey Perez
+1266	93	Introduction to Abstract Algebra	3	5.0	5.0	Phillip Robinson
+1267	93	Elementary Differential Equations	3	2.0	4.0	Phillip Robinson
+1268	73	Introduction to Modern Physics	3	1.0	3.0	Willie Adams
+1269	4	General Physics I – Mechanics	4	4.0	3.0	Jeffrey Thomas
+1270	75	Introduction to Solid State Physics	3	1.0	1.0	Nicholas Hill
+1271	63	Elementary Differential Equations	3	2.0	3.0	Arthur Perez
+1272	73	General Physics I – Mechanics	4	4.0	5.0	Willie Adams
+1273	32	Classical Mechanics	3	1.0	2.0	Ryan Hall
+1274	47	Calculus for Science and Engineering III	3	1.0	2.0	Raymond Roberts
+1275	95	General Relativity	3	5.0	4.0	Larry Perez
+1276	10	Physical Optics	3	2.0	3.0	Patricia Brown
+1277	77	Introduction to Quantum Mechanics II	3	5.0	5.0	Benjamin Campbell
+1278	21	Calculus for Science and Engineering II	4	3.0	5.0	Mark Thompson
+1279	10	Introduction to Abstract Algebra	3	5.0	5.0	Patricia Brown
+1280	44	Introduction to Modern Physics	3	1.0	1.0	Samuel Ramirez
+1281	56	Calculus for Science and Engineering II	4	3.0	5.0	Douglas Nelson
+1282	95	Cosmology and the Structure of the Universe	3	2.0	3.0	Larry Perez
+1283	54	Elementary Differential Equations	3	2.0	3.0	Aaron White
+1284	7	Calculus for Science and Engineering III	3	1.0	2.0	Timothy Carter
+1285	0	Cosmology and the Structure of the Universe	3	2.0	3.0	Elizabeth White
+1286	4	Calculus for Science and Engineering III	3	1.0	1.0	Jeffrey Thomas
+1287	29	Fundamentals of Analysis II	3	1.0	3.0	Ronald Robinson
+1288	41	Elementary Differential Equations	3	2.0	2.0	Scott Adams
+1289	11	General Relativity	3	5.0	5.0	Robert Johnson
+1290	6	General Physics I – Mechanics	4	4.0	5.0	Amanda Anderson
+1291	39	Introduction to Abstract Algebra	3	5.0	5.0	Larry Green
+1292	24	General Physics II – Electricity and Magnetism	4	5.0	5.0	Paul Lee
+1293	33	Fundamentals of Analysis II	3	1.0	3.0	Jacob Young
+1294	90	Linear Algebra	3	2.0	4.0	Raymond Wilson
+1295	34	Classical Mechanics	3	1.0	2.0	Gary Allen
+1296	50	Linear Algebra	3	2.0	3.0	Jack Evans
+1297	96	Calculus for Science and Engineering I	4	5.0	5.0	Carl Hall
+1298	64	Elementary Differential Equations	3	2.0	3.0	Ryan Hall
+1299	26	Introduction to Complex Analysis	3	4.0	5.0	Brian Harris
+1300	52	Introduction to Quantum Mechanics I	3	5.0	3.0	Jerry Torres
+1301	84	Calculus for Science and Engineering III	3	1.0	3.0	Steve Torres
+1302	19	Introduction to Modern Physics	3	1.0	1.0	Daniel Martin
+1303	15	Introduction to Modern Physics	3	1.0	1.0	Richard Martinez
+1304	96	Introduction to Modern Physics	3	1.0	3.0	Carl Hall
+1305	29	Introduction to Abstract Algebra	3	5.0	5.0	Ronald Robinson
+1306	91	Linear Algebra	3	2.0	3.0	Bobby Martinez
+1307	4	Introduction to Abstract Algebra	3	5.0	3.0	Jeffrey Thomas
+1308	22	Calculus for Science and Engineering III	3	1.0	1.0	Donald White
+1309	92	Introduction to Quantum Mechanics II	3	5.0	5.0	Johnny Clark
+1310	17	Calculus for Science and Engineering II	4	3.0	5.0	Thomas Hernandez
+1311	26	Modern Cosmology	3	3.0	5.0	Brian Harris
+1312	75	Introduction to Quantum Mechanics I	3	5.0	3.0	Nicholas Hill
+1313	38	General Physics II – Electricity and Magnetism	4	5.0	5.0	Jonathan Scott
+1314	81	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Harry Phillips
+1315	20	Introduction to Quantum Mechanics II	3	5.0	3.0	Matthew Jackson
+1316	31	Physical Optics	3	2.0	3.0	Jeffrey Perez
+1317	8	Calculus for Science and Engineering I	4	5.0	3.0	Sharon Allen
+1318	79	Calculus for Science and Engineering III	3	1.0	3.0	Brandon Roberts
+1319	30	Linear Algebra	3	2.0	3.0	Jason Walker
+1320	9	Introduction to Modern Physics	3		3.0	John Smith
+1321	7	Introduction to Quantum Mechanics II	3	5.0	5.0	Timothy Carter
+1322	54	Introduction to Abstract Algebra	3	5.0	5.0	Aaron White
+1323	45	Fundamentals of Analysis I	3	4.0	3.0	Gregory Campbell
+1324	38	Introduction to Quantum Mechanics II	3	5.0	5.0	Jonathan Scott
+1325	53	Linear Algebra	3	2.0	4.0	Tyler Anderson
+1326	53	Introduction to Complex Analysis	3	4.0	5.0	Tyler Anderson
+1327	8	Calculus for Science and Engineering II	4	3.0	2.0	Sharon Allen
+1328	4	General Physics II – Electricity and Magnetism	4	5.0	3.0	Jeffrey Thomas
+1329	76	Calculus for Science and Engineering II	4	3.0	5.0	Roy Ramirez
+1330	74	Elementary Differential Equations	3	2.0	3.0	Lawrence Nelson
+1331	42	Classical Mechanics	3	1.0	2.0	Brandon Nelson
+1332	61	Laser Physics	3	4.0	5.0	Kyle Robinson
+1333	29	Cosmology and the Structure of the Universe	3	2.0	4.0	Ronald Robinson
+1334	98	Calculus for Science and Engineering I	4	5.0	5.0	Eugene Allen
+1335	8	Introduction to Complex Analysis	3	4.0	3.0	Sharon Allen
+1336	82	Calculus for Science and Engineering III	3	1.0	1.0	Wayne Evans
+1337	74	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Lawrence Nelson
+1338	72	Introduction to Complex Analysis	3	4.0	5.0	Samuel Baker
+1339	42	Elementary Differential Equations	3	2.0	3.0	Brandon Nelson
+1340	94	General Physics I – Mechanics	4	4.0	5.0	Paul Walker
+1341	14	Thermodynamics and Statistical Mechanics	3	4.0	5.0	David Wilson
+1342	0	Calculus for Science and Engineering III	3	1.0	2.0	Elizabeth White
+1343	94	Introduction to Modern Physics	3	1.0	3.0	Paul Walker
+1344	82	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Wayne Evans
+1345	33	Introduction to Complex Analysis	3	4.0	5.0	Jacob Young
+1346	46	Introduction to Abstract Algebra	3	5.0	5.0	Frank Mitchell
+1347	38	Calculus for Science and Engineering I	4	5.0	5.0	Jonathan Scott
+1348	62	General Relativity	3	5.0	5.0	Carl Walker
+1349	15	Calculus for Science and Engineering II	4	3.0	2.0	Richard Martinez
+1350	36	Elementary Differential Equations	3	2.0	3.0	Eric Wright
+1351	63	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Arthur Perez
+1352	89	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Eugene Baker
+1353	15	Introduction to Complex Analysis	3	4.0	3.0	Richard Martinez
+1354	68	General Physics II – Electricity and Magnetism	4	5.0	5.0	Jack Wright
+1355	9	Introduction to Abstract Algebra	3	5.0	5.0	John Smith
+1356	63	Fundamentals of Analysis II	3	1.0	2.0	Arthur Perez
+1357	78	Fundamentals of Analysis I	3	4.0	5.0	Bruce Mitchell
+1358	50	Fundamentals of Analysis II	3	1.0	2.0	Jack Evans
+1359	46	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Frank Mitchell
+1360	81	Fundamentals of Analysis I	3	4.0	4.0	Harry Phillips
+1361	62	Calculus for Science and Engineering III	3	1.0	2.0	Carl Walker
+1362	79	Linear Algebra	3	2.0	4.0	Brandon Roberts
+1363	37	Elementary Differential Equations	3		3.0	Stephen King
+1364	85	Calculus for Science and Engineering III	3	1.0	1.0	Louis Anderson
+1365	22	Linear Algebra	3	2.0	2.0	Donald White
+1366	70	Fundamentals of Analysis I	3	4.0	3.0	Gerald Scott
+1367	61	Introduction to Quantum Mechanics II	3	5.0	5.0	Kyle Robinson
+1368	16	Cosmology and the Structure of the Universe	3	2.0	3.0	Joseph Taylor
+1369	33	Introduction to Modern Physics	3	1.0	3.0	Jacob Young
+1370	48	Calculus for Science and Engineering I	4	5.0	5.0	Patrick Carter
+1371	49	Introduction to Modern Physics	3	1.0	1.0	Alexander Phillips
+1372	53	General Relativity	3	5.0	5.0	Tyler Anderson
+1373	3	Fundamentals of Analysis I	3	4.0	5.0	Anthony Jones
+1374	83	Calculus for Science and Engineering II	4	3.0	3.0	Billy Turner
+1375	75	General Physics II – Electricity and Magnetism	4	5.0	3.0	Nicholas Hill
+1376	76	Cosmology and the Structure of the Universe	3	2.0	4.0	Roy Ramirez
+1377	45	Cosmology and the Structure of the Universe	3	2.0	2.0	Gregory Campbell
+1378	33	Elementary Differential Equations	3	2.0	4.0	Jacob Young
+1379	81	Introduction to Quantum Mechanics I	3	5.0	4.0	Harry Phillips
+1380	88	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Randy Nelson
+1381	7	Physical Optics	3	2.0	3.0	Timothy Carter
+1382	91	Physical Optics	3	2.0	3.0	Bobby Martinez
+1383	46	Calculus for Science and Engineering II	4	3.0	5.0	Frank Mitchell
+1384	66	Calculus for Science and Engineering II	4	3.0	4.0	Joe Allen
+1385	82	Calculus for Science and Engineering II	4	3.0	2.0	Wayne Evans
+1386	11	Calculus for Science and Engineering I	4	5.0	5.0	Robert Johnson
+1387	12	Introduction to Complex Analysis	3	4.0	3.0	Michael Davis
+1388	39	Introduction to Quantum Mechanics I	3	5.0	5.0	Larry Green
+1389	5	Linear Algebra	3	2.0	3.0	Andrew White
+1390	27	Introduction to Complex Analysis	3	4.0	4.0	George Clark
+1391	0	Introduction to Complex Analysis	3	4.0	5.0	Elizabeth White
+1392	56	Laser Physics	3	4.0	5.0	Douglas Nelson
+1393	30	Calculus for Science and Engineering II	4	3.0	3.0	Jason Walker
+1394	1	Fundamentals of Analysis I	3	4.0	5.0	Jennifer Jones
+1395	55	Physical Optics	3	2.0	4.0	Henry Lewis
+1396	37	Fundamentals of Analysis II	3	1.0	2.0	Stephen King
+1397	84	Introduction to Quantum Mechanics I	3	5.0	5.0	Steve Torres
+1398	87	Laser Physics	3	4.0	5.0	Aaron Lewis
+1399	88	Calculus for Science and Engineering I	4	5.0	5.0	Randy Nelson
+1400	47	Classical Mechanics	3	1.0	2.0	Raymond Roberts
+1401	1	Introduction to Quantum Mechanics I	3	5.0	5.0	Jennifer Jones
+1402	48	Introduction to Abstract Algebra	3	5.0	5.0	Patrick Carter
+1403	80	Calculus for Science and Engineering III	3	1.0	1.0	Adam Carter
+1404	92	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Johnny Clark
+1405	27	Classical Mechanics	3	1.0	2.0	George Clark
+1406	77	Classical Mechanics	3	1.0	3.0	Benjamin Campbell
+1407	14	Introduction to Modern Physics	3	1.0	3.0	David Wilson
+1408	90	Classical Mechanics	3	1.0	3.0	Raymond Wilson
+1409	75	Introduction to Quantum Mechanics II	3	5.0	3.0	Nicholas Hill
+1410	80	Classical Mechanics	3	1.0	1.0	Adam Carter
+1411	47	Fundamentals of Analysis I	3	4.0	5.0	Raymond Roberts
+1412	25	Introduction to Quantum Mechanics I	3	5.0	5.0	Kevin Gonzalez
+1413	11	Fundamentals of Analysis I	3	4.0	5.0	Robert Johnson
+1414	82	General Physics I – Mechanics	4	4.0	3.0	Wayne Evans
+1415	46	Introduction to Quantum Mechanics II	3	5.0	5.0	Frank Mitchell
+1416	34	Introduction to Complex Analysis	3	4.0	5.0	Gary Allen
+1417	4	Fundamentals of Analysis II	3	1.0	1.0	Jeffrey Thomas
+1418	31	Introduction to Abstract Algebra	3	5.0	5.0	Jeffrey Perez
+1419	35	General Physics II – Electricity and Magnetism	4	5.0	5.0	Nicholas Sanchez
+1420	16	General Relativity	3	5.0	5.0	Joseph Taylor
+1421	38	Classical Mechanics	3	1.0	2.0	Jonathan Scott
+1422	26	General Physics I – Mechanics	4	4.0	5.0	Brian Harris
+1423	93	Classical Mechanics	3	1.0	3.0	Phillip Robinson
+1424	37	Modern Cosmology	3	3.0	3.0	Stephen King
+1425	69	Classical Mechanics	3	1.0	3.0	Harold King
+1426	93	Fundamentals of Analysis I	3	4.0	5.0	Phillip Robinson
+1427	41	Introduction to Quantum Mechanics II	3	5.0	3.0	Scott Adams
+1428	44	Calculus for Science and Engineering I	4	5.0	3.0	Samuel Ramirez
+1429	69	Introduction to Quantum Mechanics II	3	5.0	5.0	Harold King
+1430	70	Introduction to Abstract Algebra	3	5.0	3.0	Gerald Scott
+1431	81	Cosmology and the Structure of the Universe	3	2.0	3.0	Harry Phillips
+1432	3	Calculus for Science and Engineering II	4	3.0	4.0	Anthony Jones
+1433	18	Fundamentals of Analysis I	3	4.0	5.0	Charles Moore
+1434	58	Introduction to Abstract Algebra	3	5.0	5.0	Nathan Wilson
+1435	51	Fundamentals of Analysis I	3	4.0	5.0	Dennis Turner
+1436	66	Introduction to Abstract Algebra	3	5.0	5.0	Joe Allen
+1437	37	Classical Mechanics	3	1.0	2.0	Stephen King
+1438	16	General Physics I – Mechanics	4	4.0	5.0	Joseph Taylor
+1439	90	Elementary Differential Equations	3	2.0	4.0	Raymond Wilson
+1440	75	Calculus for Science and Engineering II	4	3.0	2.0	Nicholas Hill
+1441	12	Cosmology and the Structure of the Universe	3	2.0	2.0	Michael Davis
+1442	92	Calculus for Science and Engineering I	4	5.0	5.0	Johnny Clark
+1443	83	Introduction to Quantum Mechanics I	3	5.0	4.0	Billy Turner
+1444	74	Introduction to Modern Physics	3	1.0	2.0	Lawrence Nelson
+1445	2	Fundamentals of Analysis I	3	4.0	4.0	Christopher Baker
+1446	36	Classical Mechanics	3	1.0	2.0	Eric Wright
+1447	51	Calculus for Science and Engineering I	4	5.0	5.0	Dennis Turner
+1448	12	Linear Algebra	3	2.0	2.0	Michael Davis
+1449	3	Calculus for Science and Engineering III	3	1.0	2.0	Anthony Jones
+1450	69	General Relativity	3	5.0	5.0	Harold King
+1451	90	Introduction to Abstract Algebra	3	5.0	5.0	Raymond Wilson
+1452	13	Elementary Differential Equations	3	2.0	2.0	William Miller
+1453	86	Fundamentals of Analysis II	3	1.0	2.0	Jeremy White
+1454	97	Calculus for Science and Engineering I	4	5.0	5.0	Howard Young
+1455	47	General Relativity	3	5.0	5.0	Raymond Roberts
+1456	84	Introduction to Quantum Mechanics II	3	5.0	5.0	Steve Torres
+1457	64	Cosmology and the Structure of the Universe	3	2.0	3.0	Ryan Hall
+1458	2	Introduction to Modern Physics	3	1.0	2.0	Christopher Baker
+1459	21	Cosmology and the Structure of the Universe	3	2.0	4.0	Mark Thompson
+1460	59	Fundamentals of Analysis I	3	4.0	4.0	Zachary Martinez
+1461	1	Introduction to Quantum Mechanics II	3	5.0	5.0	Jennifer Jones
+1462	23	Fundamentals of Analysis II	3	1.0	3.0	Steven Lopez
+1463	24	Fundamentals of Analysis I	3	4.0	5.0	Paul Lee
+1464	79	Introduction to Quantum Mechanics I	3	5.0	5.0	Brandon Roberts
+1465	58	Calculus for Science and Engineering I	4	5.0	5.0	Nathan Wilson
+1466	31	Linear Algebra	3	2.0	3.0	Jeffrey Perez
+1467	39	Introduction to Modern Physics	3	1.0	2.0	Larry Green
+1468	90	Fundamentals of Analysis I	3	4.0	5.0	Raymond Wilson
+1469	63	Fundamentals of Analysis I	3	4.0	4.0	Arthur Perez
+1470	59	Thermodynamics and Statistical Mechanics	3	4.0		Zachary Martinez
+1471	96	Classical Mechanics	3	1.0	3.0	Carl Hall
+1472	32	Calculus for Science and Engineering II	4	3.0	4.0	Ryan Hall
+1473	38	Elementary Differential Equations	3	2.0	3.0	Jonathan Scott
+1474	74	Fundamentals of Analysis II	3	1.0	2.0	Lawrence Nelson
+1475	3	Fundamentals of Analysis II	3	1.0	2.0	Anthony Jones
+1476	11	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Robert Johnson
+1477	38	Introduction to Modern Physics	3	1.0	2.0	Jonathan Scott
+1478	9	Classical Mechanics	3	1.0	3.0	John Smith
+1479	14	Calculus for Science and Engineering II	4	3.0	5.0	David Wilson
+1480	35	Introduction to Quantum Mechanics II	3	5.0	5.0	Nicholas Sanchez
+1481	54	Classical Mechanics	3	1.0	2.0	Aaron White
+1482	98	Introduction to Complex Analysis	3	4.0	5.0	Eugene Allen
+1483	33	Classical Mechanics	3	1.0	3.0	Jacob Young
+1484	67	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Juan Sanchez
+1485	18	Calculus for Science and Engineering I	4	5.0	5.0	Charles Moore
+1486	57	Elementary Differential Equations	3	2.0	3.0	Adam Baker
+1487	95	Fundamentals of Analysis I	3	4.0	4.0	Larry Perez
+1488	92	Calculus for Science and Engineering III	3	1.0	3.0	Johnny Clark
+1489	27	Fundamentals of Analysis I	3	4.0	4.0	George Clark
+1490	21	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Mark Thompson
+1491	47	Elementary Differential Equations	3	2.0	3.0	Raymond Roberts
+1492	62	Fundamentals of Analysis II	3	1.0	2.0	Carl Walker
+1493	89	Fundamentals of Analysis II	3	1.0	2.0	Eugene Baker
+1494	56	Classical Mechanics	3	1.0	3.0	Douglas Nelson
+1495	20	Modern Cosmology	3	3.0	2.0	Matthew Jackson
+1496	33	Calculus for Science and Engineering II	4	3.0	5.0	Jacob Young
+1497	9	Fundamentals of Analysis I	3	4.0	5.0	John Smith
+1498	83	Calculus for Science and Engineering III	3	1.0	2.0	Billy Turner
+1499	62	General Physics II – Electricity and Magnetism	4	5.0	5.0	Carl Walker
+1500	70	Laser Physics	3	4.0	3.0	Gerald Scott
+1501	29	Calculus for Science and Engineering II	4	3.0	5.0	Ronald Robinson
+1502	10	Introduction to Complex Analysis	3	4.0	5.0	Patricia Brown
+1503	10	Classical Mechanics	3	1.0	2.0	Patricia Brown
+1504	1	Fundamentals of Analysis II	3	1.0	3.0	Jennifer Jones
+1505	62	Introduction to Quantum Mechanics I	3	5.0	5.0	Carl Walker
+1506	95	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Larry Perez
+1507	77	Introduction to Complex Analysis	3	4.0	5.0	Benjamin Campbell
+1508	71	General Physics I – Mechanics	4	4.0	5.0	Keith Green
+1509	48	Introduction to Quantum Mechanics II	3	5.0	5.0	Patrick Carter
+1510	29	Introduction to Quantum Mechanics I	3	5.0	5.0	Ronald Robinson
+1511	6	Calculus for Science and Engineering II	4	3.0	4.0	Amanda Anderson
+1512	80	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Adam Carter
+1513	58	Elementary Differential Equations	3	2.0	4.0	Nathan Wilson
+1514	60	Fundamentals of Analysis I	3	4.0	5.0	Walter Clark
+1515	31	Fundamentals of Analysis I	3	4.0	5.0	Jeffrey Perez
+1516	96	General Physics II – Electricity and Magnetism	4	5.0	5.0	Carl Hall
+1517	54	Introduction to Complex Analysis	3	4.0	5.0	Aaron White
+1518	58	General Physics I – Mechanics	4	4.0	5.0	Nathan Wilson
+1519	96	Fundamentals of Analysis I	3	4.0	5.0	Carl Hall
+1520	15	Linear Algebra	3	2.0	2.0	Richard Martinez
+1521	48	General Physics II – Electricity and Magnetism	4	5.0	5.0	Patrick Carter
+1522	73	Introduction to Abstract Algebra	3	5.0	5.0	Willie Adams
+1523	10	Fundamentals of Analysis I	3	4.0	5.0	Patricia Brown
+1524	2	Calculus for Science and Engineering I	4	5.0	4.0	Christopher Baker
+1525	81	Calculus for Science and Engineering III	3	1.0	2.0	Harry Phillips
+1526	96	General Physics I – Mechanics	4	4.0	5.0	Carl Hall
+1527	31	Introduction to Quantum Mechanics I	3	5.0	5.0	Jeffrey Perez
+1528	89	Calculus for Science and Engineering I	4	5.0	4.0	Eugene Baker
+1529	56	Introduction to Quantum Mechanics I	3	5.0	5.0	Douglas Nelson
+1530	13	Introduction to Quantum Mechanics II	3	5.0	3.0	William Miller
+1531	37	Calculus for Science and Engineering III	3	1.0	2.0	Stephen King
+1532	42	Introduction to Modern Physics	3	1.0	2.0	Brandon Nelson
+1533	28	General Physics I – Mechanics	4	4.0	5.0	Edward Lewis
+1534	2	General Physics I – Mechanics	4	4.0	4.0	Christopher Baker
+1535	20	Fundamentals of Analysis II	3	1.0	1.0	Matthew Jackson
+1536	7	General Physics I – Mechanics	4	4.0	5.0	Timothy Carter
+1537	68	Laser Physics	3	4.0	5.0	Jack Wright
+1538	98	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Eugene Allen
+1539	61	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Kyle Robinson
+1540	38	Introduction to Solid State Physics	3	1.0	2.0	Jonathan Scott
+1541	32	Calculus for Science and Engineering I	4	5.0	5.0	Ryan Hall
+1542	98	Elementary Differential Equations	3	2.0	4.0	Eugene Allen
+1543	4	Linear Algebra	3	2.0	2.0	Jeffrey Thomas
+1544	97	Introduction to Complex Analysis	3	4.0	5.0	Howard Young
+1545	75	Introduction to Abstract Algebra	3	5.0	3.0	Nicholas Hill
+1546	30	Elementary Differential Equations	3	2.0	3.0	Jason Walker
+1547	7	Elementary Differential Equations	3	2.0	3.0	Timothy Carter
+1548	19	Modern Cosmology	3	3.0	2.0	Daniel Martin
+1549	41	Linear Algebra	3	2.0	2.0	Scott Adams
+1550	88	Calculus for Science and Engineering III	3	1.0	3.0	Randy Nelson
+1551	43	General Physics I – Mechanics	4	4.0	4.0	Benjamin Hill
+1552	72	Linear Algebra	3	2.0	4.0	Samuel Baker
+1553	32	Introduction to Quantum Mechanics I	3	5.0	5.0	Ryan Hall
+1554	26	Introduction to Abstract Algebra	3	5.0	5.0	Brian Harris
+1555	33	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Jacob Young
+1556	16	Introduction to Quantum Mechanics I	3	5.0	5.0	Joseph Taylor
+1557	10	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Patricia Brown
+1558	35	Introduction to Modern Physics	3	1.0	3.0	Nicholas Sanchez
+1559	30	Introduction to Abstract Algebra	3	5.0	4.0	Jason Walker
+1560	72	Introduction to Quantum Mechanics II	3	5.0	5.0	Samuel Baker
+1561	37	Calculus for Science and Engineering II	4	3.0	3.0	Stephen King
+1562	68	Calculus for Science and Engineering I	4	5.0	5.0	Jack Wright
+1563	45	Introduction to Nuclear and Particle Physics	3	5.0	3.0	Gregory Campbell
+1564	93	Calculus for Science and Engineering III	3	1.0	3.0	Phillip Robinson
+1565	64	Linear Algebra	3	2.0	3.0	Ryan Hall
+1566	65	Introduction to Nuclear and Particle Physics	3	5.0	4.0	Roger Young
+1567	69	General Physics I – Mechanics	4	4.0	5.0	Harold King
+1568	12	Fundamentals of Analysis II	3	1.0	1.0	Michael Davis
+1569	39	Introduction to Complex Analysis	3	4.0	5.0	Larry Green
+1570	16	Introduction to Abstract Algebra	3	5.0	5.0	Joseph Taylor
+1571	18	Linear Algebra	3	2.0	4.0	Charles Moore
+1572	48	Fundamentals of Analysis II	3	1.0	3.0	Patrick Carter
+1573	17	Classical Mechanics	3	1.0	3.0	Thomas Hernandez
+1574	23	Calculus for Science and Engineering I	4	5.0	5.0	Steven Lopez
+1575	80	Linear Algebra	3	2.0	2.0	Adam Carter
+1576	89	Calculus for Science and Engineering III	3	1.0	2.0	Eugene Baker
+1577	19	Linear Algebra	3	2.0	2.0	Daniel Martin
+1578	86	Calculus for Science and Engineering II	4	3.0	3.0	Jeremy White
+1579	54	Calculus for Science and Engineering II	4	3.0	4.0	Aaron White
+1580	23	Fundamentals of Analysis I	3	4.0	5.0	Steven Lopez
+1581	67	Fundamentals of Analysis I	3	4.0	4.0	Juan Sanchez
+1582	88	Elementary Differential Equations	3	2.0	4.0	Randy Nelson
+1583	33	Introduction to Quantum Mechanics II	3	5.0	5.0	Jacob Young
+1584	95	Fundamentals of Analysis II	3	1.0	2.0	Larry Perez
+1585	14	General Physics II – Electricity and Magnetism	4	5.0	5.0	David Wilson
+1586	43	Calculus for Science and Engineering II	4	3.0	3.0	Benjamin Hill
+1587	2	Calculus for Science and Engineering III	3	1.0	2.0	Christopher Baker
+1588	79	Elementary Differential Equations	3	2.0	4.0	Brandon Roberts
+1589	84	Calculus for Science and Engineering I	4	5.0	5.0	Steve Torres
+1590	27	Fundamentals of Analysis II	3	1.0	2.0	George Clark
+1591	56	Calculus for Science and Engineering I	4	5.0	5.0	Douglas Nelson
+1592	82	Elementary Differential Equations	3	2.0	2.0	Wayne Evans
+1593	96	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Carl Hall
+1594	8	Fundamentals of Analysis II	3	1.0	1.0	Sharon Allen
+1595	89	Cosmology and the Structure of the Universe	3	2.0	3.0	Eugene Baker
+1596	11	Classical Mechanics	3	1.0	2.0	Robert Johnson
+1597	64	Classical Mechanics	3	1.0	2.0	Ryan Hall
+1598	84	Classical Mechanics	3	1.0	3.0	Steve Torres
+1599	31	Elementary Differential Equations	3	2.0	3.0	Jeffrey Perez
+1600	16	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Joseph Taylor
+1601	89	Elementary Differential Equations	3	2.0	3.0	Eugene Baker
+1602	90	Introduction to Solid State Physics	3	1.0	3.0	Raymond Wilson
+1603	25	Fundamentals of Analysis I	3	4.0	5.0	Kevin Gonzalez
+1604	77	Fundamentals of Analysis I	3	4.0	5.0	Benjamin Campbell
+1605	65	Introduction to Modern Physics	3	1.0	2.0	Roger Young
+1606	6	Calculus for Science and Engineering I	4	5.0	5.0	Amanda Anderson
+1607	34	General Physics I – Mechanics	4	4.0	5.0	Gary Allen
+1608	35	Introduction to Solid State Physics	3	1.0	3.0	Nicholas Sanchez
+1609	33	General Physics II – Electricity and Magnetism	4	5.0	5.0	Jacob Young
+1610	72	General Physics I – Mechanics	4	4.0	5.0	Samuel Baker
+1611	31	General Physics II – Electricity and Magnetism	4	5.0	5.0	Jeffrey Perez
+1612	5	Calculus for Science and Engineering II	4	3.0	4.0	Andrew White
+1613	78	Calculus for Science and Engineering II	4	3.0	5.0	Bruce Mitchell
+1614	22	Introduction to Abstract Algebra	3	5.0	3.0	Donald White
+1615	15	Introduction to Quantum Mechanics I	3	5.0	3.0	Richard Martinez
+1616	91	Introduction to Quantum Mechanics II	3	5.0	5.0	Bobby Martinez
+1617	59	Introduction to Quantum Mechanics II	3	5.0	4.0	Zachary Martinez
+1618	94	Calculus for Science and Engineering I	4	5.0	5.0	Paul Walker
+1619	49	General Physics I – Mechanics	4	4.0	3.0	Alexander Phillips
+1620	82	General Physics II – Electricity and Magnetism	4	5.0	3.0	Wayne Evans
+1621	51	Introduction to Modern Physics	3	1.0	3.0	Dennis Turner
+1622	40	Classical Mechanics	3	1.0	2.0	Justin Baker
+1623	9	Linear Algebra	3	2.0	4.0	John Smith
+1624	36	Introduction to Modern Physics	3	1.0	2.0	Eric Wright
+1625	38	Introduction to Quantum Mechanics I	3	5.0	5.0	Jonathan Scott
+1626	82	Introduction to Abstract Algebra	3	5.0	3.0	Wayne Evans
+1627	1	Calculus for Science and Engineering III	3	1.0	3.0	Jennifer Jones
+1628	39	Introduction to Nuclear and Particle Physics	3		5.0	Larry Green
+1629	28	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Edward Lewis
+1630	64	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Ryan Hall
+1631	32	Fundamentals of Analysis II	3	1.0	2.0	Ryan Hall
+1632	36	Calculus for Science and Engineering III	3	1.0	2.0	Eric Wright
+1633	25	Introduction to Solid State Physics	3	1.0	3.0	Kevin Gonzalez
+1634	38	Laser Physics	3	4.0	5.0	Jonathan Scott
+1635	11	Elementary Differential Equations	3	2.0	3.0	Robert Johnson
+1636	1	Introduction to Modern Physics	3	1.0	3.0	Jennifer Jones
+1637	22	Fundamentals of Analysis I	3	4.0	3.0	Donald White
+1638	87	Introduction to Complex Analysis	3	4.0	5.0	Aaron Lewis
+1639	73	Fundamentals of Analysis I	3	4.0	5.0	Willie Adams
+1640	44	General Physics II – Electricity and Magnetism	4	5.0	3.0	Samuel Ramirez
+1641	37	Fundamentals of Analysis I	3	4.0	4.0	Stephen King
+1642	47	General Physics II – Electricity and Magnetism	4	5.0	5.0	Raymond Roberts
+1643	71	Laser Physics	3	4.0	5.0	Keith Green
+1644	22	General Physics II – Electricity and Magnetism	4	5.0	3.0	Donald White
+1645	76	Introduction to Quantum Mechanics I	3	5.0	5.0	Roy Ramirez
+1646	45	Introduction to Modern Physics	3	1.0	1.0	Gregory Campbell
+1647	25	Calculus for Science and Engineering I	4	5.0	5.0	Kevin Gonzalez
+1648	5	Introduction to Quantum Mechanics I	3	5.0	5.0	Andrew White
+1649	35	Introduction to Abstract Algebra	3	5.0	5.0	Nicholas Sanchez
+1650	66	Fundamentals of Analysis I	3	4.0	5.0	Joe Allen
+1651	78	Classical Mechanics	3	1.0	3.0	Bruce Mitchell
+1652	58	Physical Optics	3	2.0	4.0	Nathan Wilson
+1653	61	Calculus for Science and Engineering III	3	1.0	3.0	Kyle Robinson
+1654	19	Calculus for Science and Engineering III	3	1.0	1.0	Daniel Martin
+1655	52	Classical Mechanics	3	1.0	1.0	Jerry Torres
+1656	64	Calculus for Science and Engineering I	4	5.0	5.0	Ryan Hall
+1657	12	Calculus for Science and Engineering III	3	1.0	1.0	Michael Davis
+1658	1	General Physics I – Mechanics	4	4.0	5.0	Jennifer Jones
+1659	3	Introduction to Quantum Mechanics II	3	5.0	5.0	Anthony Jones
+1660	91	Introduction to Quantum Mechanics I	3	5.0	5.0	Bobby Martinez
+1661	23	Introduction to Abstract Algebra	3	5.0	5.0	Steven Lopez
+1662	40	Calculus for Science and Engineering I	4	5.0	4.0	Justin Baker
+1663	68	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Jack Wright
+1664	2	Elementary Differential Equations	3	2.0	3.0	Christopher Baker
+1665	17	Calculus for Science and Engineering I	4	5.0	5.0	Thomas Hernandez
+1666	30	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Jason Walker
+1667	23	General Physics I – Mechanics	4	4.0	5.0	Steven Lopez
+1668	13	Calculus for Science and Engineering II	4	3.0	2.0	William Miller
+1669	14	Linear Algebra	3	2.0	4.0	David Wilson
+1670	20	Linear Algebra	3	2.0	2.0	Matthew Jackson
+1671	47	Introduction to Modern Physics	3	1.0	2.0	Raymond Roberts
+1672	23	General Physics II – Electricity and Magnetism	4	5.0	5.0	Steven Lopez
+1673	48	Calculus for Science and Engineering II	4	3.0	5.0	Patrick Carter
+1674	86	Introduction to Modern Physics	3	1.0	2.0	Jeremy White
+1675	72	Introduction to Modern Physics	3	1.0	3.0	Samuel Baker
+1676	50	Calculus for Science and Engineering II	4	3.0	3.0	Jack Evans
+1677	55	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Henry Lewis
+1678	82	Calculus for Science and Engineering I	4	5.0	3.0	Wayne Evans
+1679	10	Introduction to Modern Physics	3	1.0	2.0	Patricia Brown
+1680	80	General Physics I – Mechanics	4	4.0	3.0	Adam Carter
+1681	15	General Relativity	3	5.0	3.0	Richard Martinez
+1682	59	General Physics I – Mechanics	4	4.0	4.0	Zachary Martinez
+1683	95	Calculus for Science and Engineering II	4	3.0	3.0	Larry Perez
+1684	34	General Relativity	3	5.0	5.0	Gary Allen
+1685	8	Introduction to Abstract Algebra	3	5.0	3.0	Sharon Allen
+1686	24	Introduction to Complex Analysis	3	4.0	5.0	Paul Lee
+1687	3	Linear Algebra	3	2.0	3.0	Anthony Jones
+1688	52	General Relativity	3	5.0	3.0	Jerry Torres
+1689	68	Introduction to Quantum Mechanics I	3	5.0	5.0	Jack Wright
+1690	59	Calculus for Science and Engineering II	4	3.0	3.0	Zachary Martinez
+1691	24	Calculus for Science and Engineering I	4	5.0	5.0	Paul Lee
+1692	61	General Physics II – Electricity and Magnetism	4	5.0	5.0	Kyle Robinson
+1693	2	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Christopher Baker
+1694	41	Introduction to Complex Analysis	3	4.0	3.0	Scott Adams
+1695	63	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Arthur Perez
+1696	28	Calculus for Science and Engineering II	4	3.0	4.0	Edward Lewis
+1697	9	General Relativity	3	5.0	5.0	John Smith
+1698	29	Laser Physics	3	4.0	5.0	Ronald Robinson
+1699	53	Classical Mechanics	3	1.0	3.0	Tyler Anderson
+1700	55	Linear Algebra	3	2.0	4.0	Henry Lewis
+1701	18	Modern Cosmology	3	3.0	5.0	Charles Moore
+1702	87	Introduction to Modern Physics	3	1.0	3.0	Aaron Lewis
+1703	25	Fundamentals of Analysis II	3	1.0	3.0	Kevin Gonzalez
+1704	7	Introduction to Quantum Mechanics I	3	5.0	5.0	Timothy Carter
+1705	41	Introduction to Quantum Mechanics I	3	5.0	3.0	Scott Adams
+1706	94	Introduction to Complex Analysis	3	4.0	5.0	Paul Walker
+1707	60	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Walter Clark
+1708	96	Calculus for Science and Engineering III	3	1.0	3.0	Carl Hall
+1709	66	Introduction to Complex Analysis	3	4.0	5.0	Joe Allen
+1710	97	General Physics I – Mechanics	4	4.0	5.0	Howard Young
+1711	16	Introduction to Complex Analysis	3	4.0	5.0	Joseph Taylor
+1712	63	Introduction to Quantum Mechanics I	3	5.0	4.0	Arthur Perez
+1713	76	Calculus for Science and Engineering I	4	5.0	5.0	Roy Ramirez
+1714	47	Introduction to Quantum Mechanics II	3	5.0	5.0	Raymond Roberts
+1715	7	Fundamentals of Analysis I	3	4.0	5.0	Timothy Carter
+1716	63	Linear Algebra	3	2.0	3.0	Arthur Perez
+1717	69	Elementary Differential Equations	3	2.0	4.0	Harold King
+1718	1	Linear Algebra	3	2.0	4.0	Jennifer Jones
+1719	97	Cosmology and the Structure of the Universe	3	2.0	3.0	Howard Young
+1720	30	Classical Mechanics	3	1.0	2.0	Jason Walker
+1721	34	Introduction to Quantum Mechanics II	3	5.0	5.0	Gary Allen
+1722	78	General Relativity	3	5.0	5.0	Bruce Mitchell
+1723	83	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Billy Turner
+1724	79	Cosmology and the Structure of the Universe	3	2.0	4.0	Brandon Roberts
+1725	30	Introduction to Quantum Mechanics I	3	5.0	4.0	Jason Walker
+1726	69	Fundamentals of Analysis I	3	4.0	5.0	Harold King
+1727	35	Modern Cosmology	3	3.0	5.0	Nicholas Sanchez
+1728	34	Calculus for Science and Engineering I	4	5.0	5.0	Gary Allen
+1729	10	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Patricia Brown
+1730	54	Cosmology and the Structure of the Universe	3	2.0	3.0	Aaron White
+1731	57	General Physics II – Electricity and Magnetism	4	5.0	5.0	Adam Baker
+1732	88	Fundamentals of Analysis II	3	1.0	3.0	Randy Nelson
+1733	45	Introduction to Abstract Algebra	3	5.0	3.0	Gregory Campbell
+1734	62	Introduction to Quantum Mechanics II	3	5.0	5.0	Carl Walker
+1735	58	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Nathan Wilson
+1736	65	Introduction to Quantum Mechanics I	3	5.0	4.0	Roger Young
+1737	87	Calculus for Science and Engineering III	3	1.0	3.0	Aaron Lewis
+1738	41	Classical Mechanics	3	1.0	1.0	Scott Adams
+1739	85	Physical Optics	3	2.0	2.0	Louis Anderson
+1740	0	Introduction to Quantum Mechanics I	3	5.0	5.0	Elizabeth White
+1741	70	Modern Cosmology	3	3.0	2.0	Gerald Scott
+1742	87	Calculus for Science and Engineering II	4	3.0	5.0	Aaron Lewis
+1743	39	Classical Mechanics	3	1.0	2.0	Larry Green
+1744	76	Introduction to Quantum Mechanics II	3	5.0	5.0	Roy Ramirez
+1745	0	Calculus for Science and Engineering I	4	5.0	5.0	Elizabeth White
+1746	11	Calculus for Science and Engineering II	4	3.0	4.0	Robert Johnson
+1747	87	Fundamentals of Analysis II	3	1.0	3.0	Aaron Lewis
+1748	23	Linear Algebra	3	2.0	4.0	Steven Lopez
+1749	98	General Physics I – Mechanics	4	4.0	5.0	Eugene Allen
+1750	96	Calculus for Science and Engineering II	4	3.0	5.0	Carl Hall
+1751	6	Calculus for Science and Engineering III	3	1.0	2.0	Amanda Anderson
+1752	85	General Physics II – Electricity and Magnetism	4	5.0	3.0	Louis Anderson
+1753	46	Linear Algebra	3	2.0	4.0	Frank Mitchell
+1754	70	General Physics II – Electricity and Magnetism	4	5.0	3.0	Gerald Scott
+1755	18	Fundamentals of Analysis II	3	1.0	3.0	Charles Moore
+1756	41	General Physics II – Electricity and Magnetism	4	5.0	3.0	Scott Adams
+1757	55	Calculus for Science and Engineering II	4	3.0	5.0	Henry Lewis
+1758	59	Physical Optics	3	2.0	3.0	Zachary Martinez
+1759	0	Introduction to Modern Physics	3	1.0	2.0	Elizabeth White
+1760	48	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Patrick Carter
+1761	39	Calculus for Science and Engineering I	4	5.0	5.0	Larry Green
+1762	60	Calculus for Science and Engineering III	3	1.0	3.0	Walter Clark
+1763	94	Classical Mechanics	3	1.0	3.0	Paul Walker
+1764	86	Linear Algebra	3	2.0	3.0	Jeremy White
+1765	46	Elementary Differential Equations	3	2.0	4.0	Frank Mitchell
+1766	37	Introduction to Quantum Mechanics I	3	5.0	4.0	Stephen King
+1767	45	Calculus for Science and Engineering II	4	3.0	2.0	Gregory Campbell
+1768	13	Calculus for Science and Engineering I	4	5.0	3.0	William Miller
+1769	79	General Physics II – Electricity and Magnetism	4	5.0	5.0	Brandon Roberts
+1770	91	Laser Physics	3	4.0	5.0	Bobby Martinez
+1771	12	Introduction to Abstract Algebra	3	5.0	3.0	Michael Davis
+1772	49	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Alexander Phillips
+1773	57	Introduction to Solid State Physics	3	1.0	2.0	Adam Baker
+1774	39	Fundamentals of Analysis II	3	1.0	2.0	Larry Green
+1775	86	Thermodynamics and Statistical Mechanics	3	4.0	4.0	Jeremy White
+1776	46	General Physics II – Electricity and Magnetism	4	5.0	5.0	Frank Mitchell
+1777	58	Introduction to Modern Physics	3	1.0	3.0	Nathan Wilson
+1778	40	Fundamentals of Analysis II	3	1.0	2.0	Justin Baker
+1779	82	General Relativity	3	5.0	3.0	Wayne Evans
+1780	57	Calculus for Science and Engineering II	4	3.0	4.0	Adam Baker
+1781	78	Calculus for Science and Engineering I	4	5.0	5.0	Bruce Mitchell
+1782	97	Fundamentals of Analysis I	3	4.0	5.0	Howard Young
+1783	69	General Physics II – Electricity and Magnetism	4	5.0	5.0	Harold King
+1784	69	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Harold King
+1785	13	Thermodynamics and Statistical Mechanics	3	4.0	3.0	William Miller
+1786	95	Classical Mechanics	3	1.0	2.0	Larry Perez
+1787	91	Classical Mechanics	3	1.0	2.0	Bobby Martinez
+1788	12	General Physics II – Electricity and Magnetism	4	5.0	3.0	Michael Davis
+1789	83	Linear Algebra	3	2.0	3.0	Billy Turner
+1790	92	Introduction to Abstract Algebra	3	5.0	5.0	Johnny Clark
+1791	44	Physical Optics	3	2.0	2.0	Samuel Ramirez
+1792	82	Introduction to Modern Physics	3	1.0	1.0	Wayne Evans
+1793	94	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Paul Walker
+1794	34	Physical Optics	3	2.0	3.0	Gary Allen
+1795	88	Classical Mechanics	3	1.0	3.0	Randy Nelson
+1796	68	General Relativity	3	5.0	5.0	Jack Wright
+1797	67	Elementary Differential Equations	3	2.0	3.0	Juan Sanchez
+1798	15	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Richard Martinez
+1799	13	Introduction to Modern Physics	3	1.0	1.0	William Miller
+1800	21	Linear Algebra	3	2.0	4.0	Mark Thompson
+1801	77	Introduction to Solid State Physics	3	1.0	3.0	Benjamin Campbell
+1802	84	Introduction to Complex Analysis	3	4.0	5.0	Steve Torres
+1803	60	Introduction to Modern Physics	3	1.0	3.0	Walter Clark
+1804	2	Cosmology and the Structure of the Universe	3	2.0	3.0	Christopher Baker
+1805	92	Linear Algebra	3	2.0	4.0	Johnny Clark
+1806	59	Calculus for Science and Engineering III	3	1.0	2.0	Zachary Martinez
+1807	60	Introduction to Abstract Algebra	3	5.0	5.0	Walter Clark
+1808	6	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Amanda Anderson
+1809	1	Classical Mechanics	3	1.0	3.0	Jennifer Jones
+1810	73	Cosmology and the Structure of the Universe	3	2.0	4.0	Willie Adams
+1811	58	Calculus for Science and Engineering III	3	1.0	3.0	Nathan Wilson
+1812	25	Classical Mechanics	3	1.0	3.0	Kevin Gonzalez
+1813	65	General Physics I – Mechanics	4	4.0	4.0	Roger Young
+1814	76	General Physics II – Electricity and Magnetism	4	5.0	5.0	Roy Ramirez
+1815	84	Introduction to Abstract Algebra	3	5.0	5.0	Steve Torres
+1816	86	Introduction to Abstract Algebra	3	5.0	4.0	Jeremy White
+1817	89	General Physics I – Mechanics	4	4.0	4.0	Eugene Baker
+1818	7	Introduction to Solid State Physics	3	1.0	2.0	Timothy Carter
+1819	23	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Steven Lopez
+1820	1	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Jennifer Jones
+1821	38	Calculus for Science and Engineering III	3	1.0	2.0	Jonathan Scott
+1822	97	Introduction to Nuclear and Particle Physics	3	5.0	5.0	Howard Young
+1823	2	Fundamentals of Analysis II	3	1.0	2.0	Christopher Baker
+1824	79	Introduction to Solid State Physics	3	1.0	3.0	Brandon Roberts
+1825	97	Introduction to Abstract Algebra	3	5.0	5.0	Howard Young
+1826	11	General Physics I – Mechanics	4	4.0	5.0	Robert Johnson
+1827	45	Linear Algebra	3	2.0	2.0	Gregory Campbell
+1828	36	Fundamentals of Analysis II	3	1.0	2.0	Eric Wright
+1829	66	Introduction to Modern Physics	3	1.0	2.0	Joe Allen
+1830	94	Calculus for Science and Engineering III	3	1.0	3.0	Paul Walker
+1831	42	Fundamentals of Analysis II	3	1.0	2.0	Brandon Nelson
+1832	97	Modern Cosmology	3	3.0	4.0	Howard Young
+1833	79	Classical Mechanics	3	1.0	3.0	Brandon Roberts
+1834	2	Classical Mechanics	3	1.0	2.0	Christopher Baker
+1835	85	Laser Physics	3	4.0	3.0	Louis Anderson
+1836	68	Fundamentals of Analysis II	3	1.0	2.0	Jack Wright
+1837	74	Linear Algebra	3	2.0	3.0	Lawrence Nelson
+1838	16	Calculus for Science and Engineering II	4	3.0	4.0	Joseph Taylor
+1839	69	Laser Physics	3	4.0	5.0	Harold King
+1840	80	Introduction to Nuclear and Particle Physics	3	5.0	3.0	Adam Carter
+1841	93	General Relativity	3	5.0	5.0	Phillip Robinson
+1842	32	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Ryan Hall
+1843	27	Introduction to Abstract Algebra	3	5.0		George Clark
+1844	14	Modern Cosmology	3	3.0	5.0	David Wilson
+1845	36	Introduction to Complex Analysis	3	4.0	5.0	Eric Wright
+1846	31	Calculus for Science and Engineering III	3	1.0	2.0	Jeffrey Perez
+1847	55	Classical Mechanics	3	1.0	3.0	Henry Lewis
+1848	13	Fundamentals of Analysis II	3	1.0	1.0	William Miller
+1849	26	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Brian Harris
+1850	96	Fundamentals of Analysis II	3	1.0	3.0	Carl Hall
+1851	25	Calculus for Science and Engineering III	3	1.0	3.0	Kevin Gonzalez
+1852	37	Introduction to Quantum Mechanics II	3	5.0	4.0	Stephen King
+1853	59	Calculus for Science and Engineering I	4	5.0	4.0	Zachary Martinez
+1854	47	Calculus for Science and Engineering II	4	3.0	4.0	Raymond Roberts
+1855	39	Thermodynamics and Statistical Mechanics	3	4.0	5.0	Larry Green
+1856	34	Fundamentals of Analysis II	3	1.0	2.0	Gary Allen
+1857	21	Fundamentals of Analysis I	3	4.0	5.0	Mark Thompson
+1858	89	Introduction to Quantum Mechanics II	3	5.0	4.0	Eugene Baker
+1859	91	Introduction to Abstract Algebra	3	5.0	5.0	Bobby Martinez
+1860	52	Calculus for Science and Engineering III	3	1.0	1.0	Jerry Torres
+1861	19	Fundamentals of Analysis II	3	1.0	1.0	Daniel Martin
+1862	17	General Physics II – Electricity and Magnetism	4	5.0	5.0	Thomas Hernandez
+1863	23	Introduction to Quantum Mechanics I	3	5.0	5.0	Steven Lopez
+1864	38	Fundamentals of Analysis II	3	1.0	2.0	Jonathan Scott
+1865	42	Physical Optics	3	2.0	3.0	Brandon Nelson
+1866	57	Introduction to Quantum Mechanics II	3	5.0	5.0	Adam Baker
+1867	77	Linear Algebra	3	2.0	4.0	Benjamin Campbell
+1868	43	Fundamentals of Analysis II	3	1.0	2.0	Benjamin Hill
+1869	75	Thermodynamics and Statistical Mechanics	3	4.0	3.0	Nicholas Hill
+1870	52	Calculus for Science and Engineering II	4	3.0	2.0	Jerry Torres
+1871	58	General Physics II – Electricity and Magnetism	4	5.0	5.0	Nathan Wilson
+1872	18	Calculus for Science and Engineering III	3	1.0	3.0	Charles Moore
+1873	67	Introduction to Abstract Algebra	3	5.0	4.0	Juan Sanchez
+1874	88	Introduction to Quantum Mechanics I	3	5.0	5.0	Randy Nelson
+1875	4	Introduction to Complex Analysis	3	4.0	3.0	Jeffrey Thomas
+1876	15	General Physics II – Electricity and Magnetism	4	5.0	3.0	Richard Martinez
+1877	39	Elementary Differential Equations	3	2.0	3.0	Larry Green
+1878	98	Introduction to Abstract Algebra	3	5.0	5.0	Eugene Allen
+1879	39	Introduction to Quantum Mechanics II	3	5.0	5.0	Larry Green
+1880	60	Elementary Differential Equations	3	2.0	4.0	Walter Clark
